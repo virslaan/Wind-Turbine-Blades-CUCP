@@ -13,7 +13,7 @@ Decommisioned blades need to go somewhere; either they are recovered and reused 
 Terri Matthews from Town + Gown: NYC
 
 ## Authors
-- Jiayuan (Jillian) Cui (jc5670)
+- Jiayuan (Jillian) Cui (jc5670) 
 - Vipul Harashawaradhana Harihar (vhh2105): Captain
 - Sharmi Mathur (sm5145)
 - Sarosh Sopariwalla (sjs2303)
