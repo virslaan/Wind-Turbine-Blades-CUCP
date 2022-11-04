@@ -23,30 +23,40 @@ Description ....
 """)
 
 # load the data
+@st.cache
+def get_data(filename):
+	df = pd.read_csv(filename, encoding='latin-1', usecols=useful_columns)
+	return df
+
+# 1st data set
 useful_columns = ['case_id','t_state','t_county','t_fips','p_name','p_year',
                   'p_tnum','p_cap','t_manu','t_model','t_cap','t_hh','t_rd',
                   't_rsa','t_ttlh','xlong','ylat']
 
-# url = 'https://raw.githubusercontent.com/JiayuanCui/Wind-Turbine-Blades-CUCP/main/streamlit%20app/uswtdb_v5_2_20221012.csv?token=GHSAT0AAAAAAB2DPJLLXXWPDWCZEEJ6TSASY2WFKYA'
-# df = pd.read_csv(url, encoding='latin-1', usecols=useful_columns)
-df = pd.read_csv('uswtdb_v5_2_20221012.csv', encoding='latin-1', usecols=useful_columns)
+df = get_data('uswtdb_v5_2_20221012.csv')
 df = df[df.t_state=='NY']
+df.reset_index(drop = True, inplace = True)
+
+# 2nd data set
+useful_columns = ['Project Name','Renewable Technology','Project Status','Year of Delivery Start Date','Contract Duration',
+                  'Georeference']
+
+df2 = get_data('Large-scale_Renewable_Projects_Reported_by_NYSERDA__Beginning_2004.csv')
+df2 = df2[(df2['Renewable Technology']=='Land Based Wind') | (df2['Renewable Technology']=='Offshore Wind')]
+df2 = df2[df2['Project Status']=='Under Development']
+df2.reset_index(drop = True, inplace = True)
+
+df2["clean_name"] = df2["Georeference"].apply(lambda x: str(x).split('(')[1].lstrip().split(')')[0] if "POINT" in str(x) else np.NaN)
+df2["longitude"] = df2["clean_name"].apply(lambda x: str(x).split()[0] if " " in str(x) else np.NaN).astype(float)
+df2["latitude"] = df2["clean_name"].apply(lambda x: str(x).split()[1] if " " in str(x) else np.NaN).astype(float)
+df2.drop('Georeference', axis=1, inplace=True)
+df2.drop('clean_name', axis=1, inplace=True)
 
 
-df_turb_proj = pd.DataFrame(df.groupby(['p_name'])['case_id'].count())
-df_turb_proj.reset_index(inplace=True)
-df_turb_proj.columns = ['Project','Number of Turbines']
-df_turb_proj.sort_values(by=['Number of Turbines'], ascending = False).reset_index(drop=True).head()
-
-df_proj_yr = pd.DataFrame(df.groupby(['p_year'])['p_name'].nunique())
-df_proj_yr.reset_index(inplace=True)
-df_proj_yr.columns = ['Year','Number of Projects that Became Operational']
-df_proj_yr.sort_values(by=['Year']).reset_index(drop=True).head()
-
-df_man_model = pd.DataFrame(df.groupby(['t_manu'])['t_model'].nunique())
-df_man_model.reset_index(inplace=True)
-df_man_model.columns = ['Manufacturer','Number of Models']
-df_man_model.sort_values(by=['Number of Models'], ascending = False).reset_index(drop=True).head()
+# df_turb_proj = pd.DataFrame(df.groupby(['p_name'])['case_id'].count())
+# df_turb_proj.reset_index(inplace=True)
+# df_turb_proj.columns = ['Project','Number of Turbines']
+# df_turb_proj.sort_values(by=['Number of Turbines'], ascending = False).reset_index(drop=True).head()
 
 # # # 1st map
 # columns = df_turb_proj['Project'].tolist()
@@ -87,15 +97,36 @@ project_data.reset_index(drop=False,inplace=True)
 project_data.sort_values(by=['p_name'],ascending=False,inplace=True)
 project_data['text'] = 'Project Name: ' + project_data['p_name'] + '<br>Number of Turbines: ' + project_data['numb_turbines'].astype(str) + '<br>Average Turbine Capacity: ' + (project_data['avg_turbine_capacity']).astype(str) + " MW"
 
+project_data2 = df2[['Project Name', 'Year of Delivery Start Date', 'longitude', 'latitude']]
+project_data2['text'] = 'Project Name: ' + project_data2['Project Name'] + '<br>Year of Delivery Start Date: ' + project_data2['Year of Delivery Start Date'].astype(str)
+
 map2 = folium.Map(location = [project_data.latitude.mean(), project_data.longitude.mean()], zoom_start=7, control_scale=True)
 
+group0 = folium.FeatureGroup(name='<span style=\\"color: blue;\\">Exist Projects</span>')
 for index, location_info in project_data.iterrows():
+
     folium.CircleMarker(
         location = [location_info["latitude"], location_info["longitude"]], 
         radius = location_info['numb_turbines']/2,
         fill_color ='blue',
         popup = folium.Popup(location_info["text"], min_width=250, max_width=250)
-        ).add_to(map2)
+        ).add_to(group0)
+group0.add_to(map2)
+
+group1 = folium.FeatureGroup(name='<span style=\\"color: orange;\\">Future Projects</span>')
+for index, location_info in project_data2.iterrows():
+    if pd.notnull(location_info['latitude']):
+        folium.CircleMarker(
+        location = [location_info["latitude"], location_info["longitude"]], 
+        radius = 5,
+        color = 'orange',
+        fill_color ='red',
+        popup = folium.Popup(location_info["text"], min_width=250, max_width=250)
+        ).add_to(group1)
+group1.add_to(map2)
+
+folium.map.LayerControl('topleft', collapsed=False).add_to(map2)
+        
 
 # headmap doesn't work need to figure it out
 # heat_data = project_data.values.tolist()  
