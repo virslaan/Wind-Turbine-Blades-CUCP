@@ -1,0 +1,59 @@
+field,category,description,type,non-missing,Labels,Min,Max
+case_id,id,unique uswtdb id,long,72130,n/a,3000001,3124485
+faa_ors,id,faa digital obstacle file (dof) for obstacle repository system (ors),str9,66586,n/a,n/a,n/a
+faa_asn,id,faa obstruction evaluation - airport airspace analysis (oe-aaa) aeronautical study number (asn),str17,66877,n/a,n/a,n/a
+usgs_pr_id,id,usgs id from prior turbine dataset,long,38095,n/a,1,49135
+eia_id,id,eia plant id from eia form 860,long,65445,n/a,90,65270
+t_state,location,state where turbine is located,str2,72130,n/a,n/a,n/a
+t_county,location,county where turbine is located,str31,72130,n/a,n/a,n/a
+t_fips,location,state and county fips where turbine is located,str5,72130,n/a,n/a,n/a
+p_name,project characteristic,project name,str42,72130,n/a,n/a,n/a
+p_year,project characteristic,year project became operational,int,71398,n/a,1981,2022
+p_tnum,project characteristic,number of turbines in project,int,72130,n/a,1,731
+p_cap,project characteristic,project capacity (MW),double,68204,n/a,0.05,1055.6
+t_manu,turbine characteristic,turbine original equipment manufacturer,str31,67045,n/a,n/a,n/a
+t_model,turbine characteristic,turbine model,str18,66908,n/a,n/a,n/a
+t_cap,turbine characteristic,turbine capacity (kW),int,67216,n/a,50,6000
+t_hh,turbine characteristic,turbine hub height (meters),double,66685,n/a,19,137
+t_rd,turbine characteristic,turbine rotor diameter (meters),double,66778,n/a,13.4,155
+t_rsa,turbine characteristic,turbine rotor swept area (meters^2),double,66778,n/a,141.03,18869.19
+t_ttlh,turbine characteristic,turbine total height - calculated (meters),double,66685,n/a,30.4,205.4
+retrofit,turbine characteristic,indicator of whether the turbine has been partially retrofitted after initial construction,byte,72130,n/a,0,1
+retrofit_year,turbine characteristic,year in which turbine was retrofitted,int,6738,n/a,2015,2021
+t_conf_atr,turbine characteristics qa/qc,turbine characteristic confidence (0-3),byte,72130,see below,1,3
+t_conf_loc,visual inspection qa/qc,location confidence (0 -3),byte,72130,see below,1,3
+t_img_date,visual inspection info,date of image used to visually verify turbine location,int,63984,n/a,n/a,n/a
+t_img_srce,visual inspection info,source of image used to visually verify turbine location,str16,72130,n/a,n/a,n/a
+xlong,location,longitude (decimal degrees - NAD 83 datum),double,72130,n/a,-171.7131,144.7227
+ylat,location,latitude (decimal degrees - NAD 83 datum),double,72130,n/a,13.3894,66.8399
+,,,,,,,
+,,,,,,,
+Acronyms,,,,,,,
+ASN,Aeronautical Study Number,,,,,,
+ACP,American Clean Power Association,,,,,,
+DOF,Digital Obstacal File,,,,,,
+FAA,Federal Avaiation Administration,,,,,,
+LBNL,Lawrence Berkeley National Laboratory,,,,,,
+OE/AAA,Obstacle Evaluation / Airport Airspace Analysis,,,,,,
+ORS,Obstacle Repository System,,,,,,
+USGS,United States Geological Survey,,,,,,
+EIA,Energy Information Administration,,,,,,
+,,,,,,,
+t_conf_loc,,,,,,,
+code,short description,long description,,,,,
+0,Not visually verified,Not visually verified: Point has not been visually verified yet,,,,,
+1,No confidence,No confidence: No turbine shown in image; image has clouds; imagery older than turbine built date,,,,,
+2,Partial confidence,Partial confidence: image shows a developed pad with concrete base and/or turbine parts on the ground,,,,,
+3,Full confidence,Full confidence: image shows an installed turbine or a tower being constructed; at least partially installed,,,,,
+,,,,,,,
+t_conf_atr,,,,,,,
+code,short description,long description,,,,,
+0,Not verified,Not verified: attributes have not been verified,,,,,
+1,No confidence,"No confidence: no facility data, no name, nothing in publications",,,,,
+2,Partial confidence,Partial confidence: incomplete information or significant discrepancies across data sources,,,,,
+3,Full confidence,Full confidence: consistent information across multiple data sources,,,,,
+,,,,,,,
+retrofit,,,,,,,
+code,short description,long description,,,,,
+0,No,Turbine has not been significantly retrofitted since initial construction,,,,,
+1,Yes,"Turbine has been significantly retrofitted (i.e., new blades and/or nacelle) after initial construction",,,,,

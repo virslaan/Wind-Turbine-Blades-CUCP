@@ -1,0 +1,469 @@
+﻿ID,Name,Manufucturer,Offshore,Rated power,Rotor diameter,Swept area,Specific area,Number of blades,Minimum hub height,Maximum hub height,Nacelle weight,Tower weight,Rotor weight,Total weight,Available since,Status,Link,Update
+#ND = no data,,,,kW,m,m2,m2/kW,,m,m,Tons,Tons,Tons,Tons,Format : yyyy or yyyy/mm,,,
+179,AW-1500/70,Acciona,No,1500,70,3848.5,2.57,3,60,80,52.5,135,15,203,2006,Not available,Link,18-Jan-21
+180,AW-1500/77,Acciona,No,1500,77,4656.6,3.10,3,60,80,52.5,135,15,203,2006,Not available,Link,18-Jan-21
+181,AW-1500/82,Acciona,No,1500,82,5281.0,3.52,3,80,80,52.5,135,15,203,2009,Not available,Link,18-Jan-21
+538,AW-3000/100,Acciona,No,3000,100,7854.0,2.62,3,100,120,150,1100,66,1316,2009,Not available,Link,18-Jan-21
+559,AW-3000/109,Acciona,No,3000,109,9331.3,3.11,3,95.5,120,#ND,1100,66,#ND,2012,Not available,Link,18-Jan-21
+398,A27/225,ACSA,No,225,27,572.6,2.54,3,31.5,50,7.9,12,3,23,#ND,Not available,Link,06-Apr-18
+1123,ADES 100,ADES,No,100,29,660.5,6.61,1,27.5,27.5,4.8,10,3,18,#ND,Available,Link,15-Jan-22
+1124,ADES 200,ADES,No,200,36,1017.9,5.09,1,31,40,5.5,11,4,20,#ND,Available,Link,15-Jan-22
+1125,ADES 335,ADES,No,335,36,1017.9,3.04,1,36,36,9,17,4,30,#ND,Available,Link,15-Jan-22
+752,29-225,Aeronautica Windpower,No,225,29,660.5,2.94,3,30,50,6.9,12,5,24,#ND,Not available,Link,05-Mar-22
+919,33-225,Aeronautica Windpower,No,225,33,855.3,3.80,3,30,50,6.9,12,5,24,#ND,Not available,Link,05-Mar-22
+604,47-500,Aeronautica Windpower,No,500,47,1734.9,3.47,3,50,65,22,#ND,15,#ND,#ND,Available,Link,05-Mar-22
+753,47-750,Aeronautica Windpower,No,750,47,1734.9,2.31,3,50,65,22,37,15,74,#ND,Available,Link,05-Mar-22
+754,54-750,Aeronautica Windpower,No,750,54,2290.2,3.05,3,50,65,22,37,15,74,#ND,Available,Link,05-Mar-22
+934,aM 1.5/77,Aerovide,No,1500,77.1,4668.7,3.11,3,70,80,61.5,#ND,32,#ND,#ND,Available,Link,12-May-22
+935,aM 1.5/83,Aerovide,No,1500,82.7,5371.6,3.58,3,70,80,61.5,#ND,32,#ND,#ND,Available,Link,12-May-22
+936,aM 1.5/87,Aerovide,No,1500,86.7,5903.8,3.94,3,80,80,61.5,#ND,33,#ND,#ND,Available,Link,12-May-22
+937,aM 1.5/92,Aerovide,No,1500,92.1,6662.1,4.44,3,80,90,61.5,#ND,35,#ND,#ND,Available,Link,12-May-22
+1396,aM 2.0/120,Aerovide,No,2000,120,11309.7,5.65,3,90,90,93.2,#ND,53,#ND,2016,Available,Link,12-May-22
+1655,aM 2.3/120,Aerovide,No,2300,120,11309.7,4.92,3,#ND,#ND,89.5,#ND,54,#ND,2018,Available,Link,12-May-22
+939,aM 2.5/103,Aerovide,No,2500,102.9,8316.1,3.33,3,80,90,93.2,#ND,56,#ND,#ND,Available,Link,12-May-22
+940,aM 2.5/110,Aerovide,No,2500,109.7,9451.6,3.78,3,80,80,93.2,#ND,56,#ND,#ND,Available,Link,12-May-22
+941,aM 2.5/118,Aerovide,No,2500,118.3,10991.6,4.40,3,90,120,93.2,#ND,53,#ND,#ND,Available,Link,12-May-22
+938,aM 2.5/96,Aerovide,No,2500,96.1,7253.3,2.90,3,70,80,93.2,#ND,56,#ND,#ND,Not available,Link,12-May-22
+1395,aM 3.0/103,Aerovide,No,3000,102.9,8316.1,2.77,3,80,80,93.2,#ND,56,#ND,2016,Not available,Link,12-May-22
+991,aM 3.0/134,Aerovide,No,3000,133.6,14018.5,4.67,3,#ND,#ND,125,#ND,75,#ND,#ND,Not available,Link,12-May-22
+842,aM 3.0/140,Aerovide,No,3000,140,15393.8,5.13,3,#ND,#ND,125,#ND,74,#ND,#ND,Not available,Link,12-May-22
+1565,aM 3.0/145,Aerovide,No,3000,145,16513.0,5.50,3,100,100,130,#ND,103,#ND,2017,Available,Link,12-May-22
+1656,aM 3.2/140,Aerovide,No,3200,140,15393.8,4.81,3,#ND,#ND,133,#ND,105,#ND,2018,Available,Link,12-May-22
+1564,aM 3.4/130,Aerovide,No,3400,130,13273.2,3.90,3,90,90,130,#ND,85,#ND,2017,Not available,Link,12-May-22
+1563,aM 3.6/124,Aerovide,No,3600,124,12076.3,3.35,3,90,90,130,#ND,83,#ND,2017,Not available,Link,12-May-22
+1567,aM 4.0/140,Aerovide,No,4000,140.4,15481.9,3.87,3,95,95,170,#ND,112,#ND,2017,Available,Link,12-May-22
+1568,aM 4.0/147,Aerovide,No,4000,147,16971.7,4.24,3,100,100,170,#ND,125,#ND,2017,Not available,Link,12-May-22
+1569,aM 4.0/150,Aerovide,No,4000,150,17671.5,4.42,3,100,100,170,#ND,127,#ND,2017,Not available,Link,12-May-22
+1657,aM 4.2/147,Aerovide,No,4200,147,16971.7,4.04,3,#ND,#ND,167,#ND,127,#ND,2018,Available,Link,12-May-22
+1566,aM 4.5/126,Aerovide,No,4500,126.4,12548.3,2.79,3,90,90,170,#ND,109,#ND,2017,Available,Link,12-May-22
+1055,aM 4.5/153,Aerovide,No,4500,153,18385.4,4.09,3,#ND,#ND,167,#ND,130,#ND,2019,Available,Link,12-May-22
+942,aM 5.0/130,Aerovide,Yes,5000,130,13273.2,2.65,3,100,100,310,#ND,119,#ND,#ND,Not available,Link,12-May-22
+943,aM 5.0/139,Aerovide,Yes,5000,139,15174.7,3.03,3,100,100,310,#ND,135,#ND,#ND,Not available,Link,12-May-22
+1570,aM 5.5/139,Aerovide,Yes,5500,139,15174.7,2.76,3,100,100,310,#ND,135,#ND,2017,Not available,Link,12-May-22
+1660,aM 5.7/163,Aerovide,Yes,5700,163,20867.2,3.66,3,#ND,#ND,290,#ND,145,#ND,#ND,Under development,Link,12-May-22
+1658,aM 6.0/139,Aerovide,Yes,6000,139,15174.7,2.53,3,#ND,#ND,290,#ND,135,#ND,#ND,Available,Link,12-May-22
+1659,aM 6.0/154,Aerovide,Yes,6000,154,18626.5,3.10,3,#ND,#ND,290,#ND,142,#ND,#ND,Under development,Link,12-May-22
+322,80,Alstom Power,No,1670,80,5026.5,3.01,3,74,86,64,126,18,208,#ND,Not available,Link,07-Jun-18
+1140,A3000,Amperax Energie GmbH,No,3000,116,10568.3,3.52,3,92,142,134,300 - 1610,74,808 - 1818,#ND,Available,Link,15-May-21
+326,M5000-116,Areva,Yes,5000,116,10568.3,2.11,3,90,90,246,350,110,815,#ND,Not available,Link,07-Jun-18
+806,M5000-135,Areva,Yes,5000,135,14313.9,2.86,3,#ND,#ND,#ND,#ND,140,#ND,#ND,Not available,Link,07-Jun-18
+981,ATB 500.54,ATB Riva Calzoni SpA,No,500,54,2290.2,4.58,3,50,73,#ND,43-77,16,#ND,#ND,Available,Link,04-Jul-22
+1498,ATB 750.54,ATB Riva Calzoni SpA,No,750,54,2290.2,3.05,3,72,72,#ND,77,16,#ND,#ND,Available,Link,04-Jul-22
+1221,M30 A,ATB Riva Calzoni SpA,No,200,33,855.3,4.28,1,33,33,13.5,13,4,30,#ND,Not available,Link,04-Jul-22
+1222,M30 S1,ATB Riva Calzoni SpA,No,250,33,855.3,3.42,1,33,33,13.5,13,4,30,#ND,Not available,Link,04-Jul-22
+1223,M30 S2,ATB Riva Calzoni SpA,No,350,33,855.3,2.44,1,33,33,11.5,11,4,26,#ND,Not available,Link,04-Jul-22
+74,AV 1010,Avantis,No,2300,100.6,7948.5,3.46,3,99,99,75,180,40,295,#ND,Available,Link,28-Dec-21
+1540,BW 2000/100,Baltic WindWerke (Förde WindWerk),No,2050,100,7854.0,3.83,3,85,141,78,165 - 240,50,293 - 368,2017,Available,Link,04-Jun-22
+1539,BW 2000/93,Baltic WindWerke (Förde WindWerk),No,2050,93,6792.9,3.31,3,85,141,78,165 - 240,46,289 - 364,2017,Available,Link,04-Jun-22
+1542,BW 2500/100,Baltic WindWerke (Förde WindWerk),No,2500,100,7854.0,3.14,3,85,160,96,170 - 350,51,317 - 497,2017,Available,Link,04-Jun-22
+1543,BW 2500/104,Baltic WindWerke (Förde WindWerk),No,2500,104,8494.9,3.40,3,85,160,96,170 - 350,52,318 - 498,2017,Not available,Link,04-Jun-22
+1541,BW 2500/90,Baltic WindWerke (Förde WindWerk),No,2500,90,6361.7,2.54,3,85,160,96,170 - 350,50,316 - 496,2017,Not available,Link,04-Jun-22
+1544,BW 3000/120,Baltic WindWerke (Förde WindWerk),No,3000,120.6,11423.1,3.81,3,90,140,105,236 - 298,92,433 - 495,2017,Available,Link,04-Jun-22
+1615,BW 3000/132,Baltic WindWerke (Förde WindWerk),No,3000,132,13684.8,4.56,3,90,140,105,236 - 298,96,437 - 499,2018,Not available,Link,04-Jun-22
+199,6.5,Bard,No,6500,122,11689.9,1.80,3,90,90,295,760,155,1210,2011,Not available,Link,07-Jun-18
+291,VM,Bard,Yes,5000,122,11689.9,2.34,3,90,90,280,940,155,1375,2010,Not available,Link,07-Jun-18
+373,800KVA,BEST-Romani,No,640,30.2,716.3,1.12,3,32,32,25,127,8,160,1958,Not available,Link,02-Jan-19
+194,B23/150,Bonus,No,150,23,415.5,2.77,3,30,40,8.7,15,2,26,#ND,Not available,Link,07-Jun-18
+132,B30/100,Bonus,No,100,30,706.9,7.07,3,24,30,2,10,7,18,#ND,Not available,Link,07-Jun-18
+517,B33/300,Bonus,No,300,33.4,876.2,2.92,3,30,40,17.6,25,4,46,#ND,Not available,Link,07-Jun-18
+242,B44/600,Bonus,No,600,44,1520.5,2.53,3,42,58,24,51,10,85,2002,Not available,Link,07-Jun-18
+383,B50/750,Bonus,No,750,50,1963.5,2.62,3,60,70,50,60,10,120,1995,Not available,Link,07-Jun-18
+333,B54/1000,Bonus,No,1000,54.1,2298.7,2.30,3,50,70,40,54 - 60,25,134 - 145,1997,Not available,Link,07-Jun-18
+229,B76/2000,Bonus,Yes,2000,76,4536.5,2.27,3,60,98,65,162,38,265,2002,Not available,Link,07-Jun-18
+312,B82/2300,Bonus,Yes,2300,82.4,5332.7,2.32,3,80,100,82.5,252,52,387,2003,Not available,Link,07-Jun-18
+1248,BWU 48-750,BWU,No,750,48.4,1839.8,2.45,3,50,75,20,80,14,114,#ND,Not available,Link,02-Jan-19
+1249,BWU 57-1000,BWU,No,1050,57,2551.8,2.43,3,55,70,63,88,18,169,#ND,Not available,Link,02-Jan-19
+1494,CF 100,C&F Green Energy,No,100,25,490.9,4.91,3,30,37,10,16,2,28,#ND,Not available,Link,03-Feb-20
+1495,CF 250,C&F Green Energy,No,250,35,962.1,3.85,3,35,50,12,16,4,32,#ND,Not available,Link,03-Feb-20
+1228,CWT 300,Carter,No,300,30,706.9,2.36,2,45,45,3.9,8,2,14,#ND,Not available,Link,02-Jan-19
+1229,CWT 500,Carter,No,500,36.6,1052.1,2.10,2,45,45,4.5,13,2,19,#ND,Not available,Link,02-Jan-19
+1045,H102-2000,CSIC HZ Windpower,No,2000,102,8171.3,4.09,3,70,85,87,#ND,48,#ND,#ND,Available,Link,28-Nov-19
+1044,H151-5000,CSIC HZ Windpower,Yes,5000,151,17907.9,3.58,3,97,97,217,#ND,154,#ND,#ND,Under development,Link,05-Feb-20
+714,H93-2000,CSIC HZ Windpower,No,2000,92.8,6763.7,3.38,3,70,80,87,#ND,45,#ND,2009,Available,Link,30-Jan-20
+1126,WT1500-D82,CSR,No,1500,82,5281.0,3.52,3,70,80,#ND,#ND,36,#ND,#ND,Available,Link,21-Oct-19
+1127,WT1500-D88,CSR,No,1500,88,6082.1,4.05,3,70,80,#ND,#ND,37,#ND,#ND,Available,Link,21-Oct-19
+1129,WT1650-D77,CSR,No,1650,77.4,4705.1,2.85,3,65,70,59.1,130,54,243,#ND,Not available,Link,21-Oct-19
+1553,WT1650-D82,CSR,No,1650,82.4,5332.7,3.23,3,65,70,59.3,#ND,36,#ND,#ND,Not available,Link,21-Oct-19
+1104,WT1650-D88,CSR,No,1650,88,6082.1,3.69,3,70,80,59.3,#ND,37,#ND,#ND,Not available,Link,21-Oct-19
+1699,WT1650-D93,CSR,No,1650,93.7,6895.6,4.18,3,70,80,59.3,#ND,39,#ND,#ND,Not available,Link,21-Oct-19
+1130,WT2000-D103,CSR,No,2000,103,8332.3,4.17,3,80,85,94.3,#ND,61,#ND,#ND,Available,Link,21-Oct-19
+1131,WT2000-D110,CSR,No,2000,110,9503.3,4.75,3,80,85,88.5,#ND,65,#ND,#ND,Available,Link,21-Oct-19
+739,C-30/250,CWEL,No,250,29.6,688.1,2.75,3,50,50,7.25,25,4,37,#ND,Available,Link,09-May-21
+930,23/160,Danwin,No,160,23,415.5,2.60,3,23,23,7.5,13,5,26,#ND,Not available,Link,11-Aug-22
+513,27/225,Danwin,No,225,27,572.6,2.54,3,30,39,7.6,13,4,24,#ND,Not available,Link,11-Aug-22
+676,DDIS60,DDIS,No,800,60,2827.4,3.53,3,50,60,30,45,10,90,#ND,Available,Link,08-Feb-22
+624,Tornado 200/26,Dencon,No,200,25.5,510.7,2.55,3,31.5,31.5,#ND,10,5,#ND,#ND,Not available,Link,17-Dec-19
+523,Tornado 250/26,Dencon,No,250,25.5,510.7,2.04,3,31.5,31.5,#ND,10,5,#ND,#ND,Not available,Link,17-Dec-19
+744,A300,DESA,No,300,30,706.9,2.36,3,30,30,27.2,13,15,55,1996,Not available,Link,02-Jan-19
+91,D4,Dewind,No,600,48,1809.6,3.02,3,45,70,24,63,12,99,1996,Not available,Link,06-Jan-20
+1209,D4 46/600,Dewind,No,600,46,1661.9,2.77,3,55,70,24,63,12,99,1996,Not available,Link,06-Jan-20
+92,D6,Dewind,No,1250,64.3,3247.2,2.60,3,60,91.5,44,116,30,190,2001,Not available,Link,06-Jan-20
+1210,D6 62/1250,Dewind,No,1250,62.3,3048.4,2.44,3,66,66,44,72,33,149,2000,Not available,Link,06-Jan-20
+573,D6-1000,Dewind,No,1000,62,3019.1,3.02,3,65,91.5,44,120,30,194,2000,Not available,Link,05-Jul-18
+93,D8.0,Dewind,No,2000,80,5026.5,2.51,3,80,80,65,160,35,260,2002,Not available,Link,06-Jan-20
+1351,D110/19,DWP,No,110,19.2,289.5,2.63,3,24,24,6.3,8,3,17,#ND,Not available,Link,17-Dec-19
+408,82,e.n.o. energy,No,2000,82.4,5332.7,2.67,3,58.6,108,60,"62,3 - 254,7",38,"181,6 - 374,0",#ND,Not available,Link,04-Jun-22
+539,92,e.n.o. energy,No,2200,92.8,6763.7,3.07,3,103,123,65,236,47,378,2010,Not available,Link,04-Jun-22
+249,44,Ecotecnia,No,600,44,1520.5,2.53,3,45,55,27.6,31,7,65,1998,Not available,Link,07-Jun-18
+36,48,Ecotecnia,No,750,48,1809.6,2.41,3,45,55,27.6,55,7,89,1998,Not available,Link,07-Jun-18
+37,62,Ecotecnia,No,1300,62,3019.1,2.32,3,60,80,63,149,15,229,2001,Not available,Link,07-Jun-18
+38,74,Ecotecnia,No,1670,74,4300.8,2.58,3,60,80,63,126,18,207,2003,Not available,Link,07-Jun-18
+1226,48700,Ecotecnia,No,700,48,1809.6,2.59,3,45,55,27.6,55,7,89,#ND,Not available,Link,07-Jun-18
+39,80 1.6,Ecotecnia,No,1670,80,5026.5,3.01,3,60,80,63,126,18,207,#ND,Not available,Link,07-Jun-18
+40,80 2.0,Ecotecnia,No,2000,80,5026.5,2.51,3,70,80,64,126,18,208,#ND,Not available,Link,07-Jun-18
+737,T600-48DS,Elecon Engineering,No,600,48,1809.6,3.02,3,50,70,30,68,5,103,#ND,Not available,Link,07-Jun-18
+1276,Tjæreborg,Elsam,No,2000,61.1,2932.1,1.47,3,60,60,143,645,68,856,1987,Not available,Link,02-Jan-19
+1109,E30/200,Enercon,No,200,30,706.9,3.53,3,36,50,12.6,27,4,44,1994,Not available,Link,05-Jul-22
+164,E40/500,Enercon,No,500,40,1256.6,2.51,3,42,65,26.5,#ND,120,#ND,1993,Not available,Link,05-Jul-22
+175,E44/600,Enercon,No,600,44,1520.5,2.53,3,50,78,20.5,99,9,128,#ND,Not available,Link,05-Jul-22
+218,E58/1000,Enercon,No,1000,58,2642.1,2.64,3,59,89,61,111,21,193,1999,Not available,Link,05-Jul-22
+6,E82/2000,Enercon,No,2000,82,5281.0,2.64,3,78,138,#ND,#ND,55,#ND,2005,Not available,Link,05-Jul-22
+983,E82/2050,Enercon,No,2050,82,5281.0,2.58,3,#ND,#ND,#ND,#ND,55,#ND,#ND,Not available,Link,05-Jul-22
+495,E82/2300,Enercon,No,2300,82,5281.0,2.30,3,78,138,#ND,#ND,55,#ND,2009,Available,Link,05-Jul-22
+929,E82/2350,Enercon,No,2350,82,5281.0,2.25,3,59,84,#ND,#ND,55,#ND,#ND,Not available,Link,05-Jul-22
+314,1.5s,Enron,No,1500,70.5,3903.6,2.60,3,65,100,49,132,28,209,#ND,Not available,Link,02-Jan-19
+313,1.5sl,Enron,No,1500,77,4656.6,3.10,3,61,100,49,158,31,238,#ND,Not available,Link,09-Mar-18
+1280,750i,Enron,No,750,50,1963.5,2.62,3,55,55,21.9,49,15,85,1999,Not available,Link,02-Jan-19
+334,900s,Enron,No,900,54,2290.2,2.54,3,60,60,29,45,14,88,#ND,Not available,Link,02-Jan-19
+540,ev100,Eviag,No,2500,100,7854.0,3.14,3,85,100,96.5,200,55,352,#ND,Not available,Link,02-Jan-19
+542,ev90,Eviag,No,2500,90,6361.7,2.54,3,85,100,96.5,200,52,349,#ND,Not available,Link,02-Jan-19
+162,FL 100/21,Fuhrländer,No,100,21,346.4,3.46,3,35,38,6.2,21,3,30,#ND,Not available,Link,07-Jun-18
+269,FL 1000/54,Fuhrländer,No,1000,54,2290.2,2.29,3,70,82,40.5,95 - 120,19,154 - 179,1998,Not available,Link,07-Jun-18
+157,FL 1500/70,Fuhrländer,No,1500,70,3848.5,2.57,3,65,100,56,93 - 136,33,182 - 225,2000,Not available,Link,07-Jun-18
+161,FL 250/30,Fuhrländer,No,250,29.5,683.5,2.73,3,42,50,9.8,27 - 32,5,42 - 47,1998,Not available,Link,07-Jun-18
+154,FL 2500/100,Fuhrländer,No,2500,100,7854.0,3.14,3,65,160,96,350,52,498,#ND,Not available,Link,07-Jun-18
+786,FL 2500/104,Fuhrländer,No,2500,104,8494.9,3.40,3,85,160,93,350,52,495,#ND,Not available,Link,07-Jun-18
+152,FL 2500/80,Fuhrländer,No,2500,80,5026.5,2.01,3,65,160,96,170 - 350,48,314 - 494,#ND,Not available,Link,07-Jun-18
+153,FL 2500/90,Fuhrländer,No,2500,90,6361.7,2.54,3,85,160,96,350,52,498,2005,Not available,Link,07-Jun-18
+1325,FL 2700/96,Fuhrländer,No,2700,96,7238.2,2.68,3,80,80,95,180,50,325,#ND,Not available,Link,07-Jun-18
+1323,FL 300/30,Fuhrländer,No,300,30,706.9,2.36,3,42,42,9.8,27,5,41,#ND,Not available,Link,07-Jun-18
+160,FL 600/50,Fuhrländer,No,600,50,1963.5,3.27,3,50,75,23,37 - 103,12,72 - 138,2002,Not available,Link,07-Jun-18
+1110,FL 800/48,Fuhrländer,No,800,48,1809.6,2.26,3,60,70,39,85,18,142,#ND,Not available,Link,07-Jun-18
+1258,FL 800/53,Fuhrländer,No,800,52.7,2181.3,2.73,3,60,70,39,85,18,142,1999,Not available,Link,07-Jun-18
+155,FL MD/70,Fuhrländer,No,1500,70,3848.5,2.57,3,65,114.5,56,93 - 260,31,180 - 347,2000,Not available,Link,07-Jun-18
+156,FL MD/77,Fuhrländer,No,1500,77,4656.6,3.10,3,61.5,114.5,56,93 - 260,33,182 - 347,#ND,Not available,Link,07-Jun-18
+995,FWT2000/100,FWT,No,2050,100,7854.0,3.83,3,85,141,78,165 - 240,50,293 - 368,#ND,Not available,Link,02-Jan-19
+994,FWT2000/93,FWT,No,2050,93,6792.9,3.31,3,85,141,78,165 - 240,46,289 - 364,#ND,Not available,Link,02-Jan-19
+997,FWT2500/100,FWT,No,2500,100,7854.0,3.14,3,85,160,96,170 - 350,51,317 - 497,#ND,Not available,Link,02-Jan-19
+998,FWT2500/104,FWT,No,2500,104,8494.9,3.40,3,85,160,96,170 - 350,52,318 - 498,#ND,Not available,Link,02-Jan-19
+996,FWT2500/90,FWT,No,2500,90,6361.7,2.54,3,85,160,96,170 - 350,50,316 - 496,#ND,Not available,Link,02-Jan-19
+999,FWT3000/120,FWT,No,3000,120.6,11423.1,3.81,3,90,140,105,236 - 298,92,433 - 495,#ND,Not available,Link,02-Jan-19
+81,G128/4500,Gamesa,No,4500,128,12868.0,2.86,3,81,140,#ND,#ND,84,#ND,2009,Not available,Link,04-Jun-18
+259,G42/600,Gamesa,No,600,42,1385.4,2.31,3,40.5,53,17.3,41,8,67,#ND,Not available,Link,04-Jun-18
+166,G47/660,Gamesa,No,660,47,1734.9,2.63,3,40,55,20.4,66,7,94,2001,Not available,Link,04-Jun-18
+42,G52/850,Gamesa,No,850,52,2123.7,2.50,3,44,65,23,40 - 91,10,73  - 124,2001,Not available,Link,04-Jun-18
+43,G58/850,Gamesa,No,850,58,2642.1,3.11,3,44,74,47,40 - 91,12,99 - 150,2001,Not available,Link,04-Jun-18
+260,G66/1650,Gamesa,No,1650,66,3421.2,2.07,3,60,78,55,102,23,180,#ND,Not available,Link,04-Jun-18
+44,G80/2000,Gamesa,No,2000,80,5026.5,2.51,3,60,100,72,122 - 286,37,231 - 395,2002,Not available,Link,04-Jun-18
+45,G83/2000,Gamesa,No,2000,83,5410.6,2.71,3,67,100,72,151 - 286,46,260 - 395,2004,Not available,Link,04-Jun-18
+46,G87/2000,Gamesa,Yes,2000,87,5944.7,2.97,3,67,100,65,153 - 286,40,258 - 391,2005,Not available,Link,04-Jun-18
+47,G90/2000,Gamesa,No,2000,90,6361.7,3.18,3,55,100,65,153 - 286,50,268 - 401,2005,Not available,Link,04-Jun-18
+54,1.5s,GE Energy,Yes,1500,70.5,3903.6,2.60,3,54.7,100,49,#ND,28,#ND,1998,Not available,Link,06-Jul-22
+55,1.5se,GE Energy,No,1500,70.5,3903.6,2.60,3,54.7,85,49,#ND,28,#ND,1998,Not available,Link,06-Jul-22
+56,1.5sl,GE Energy,No,1500,77,4656.6,3.10,3,61.4,80,50,#ND,31,#ND,2000,Not available,Link,06-Jul-22
+57,1.5sle,GE Energy,No,1500,77,4656.6,3.10,3,61.4,85,50,#ND,31,#ND,2000,Not available,Link,06-Jul-22
+58,1.5xle,GE Energy,No,1500,82.5,5345.6,3.56,3,59,100,54,#ND,31,#ND,2005,Not available,Link,06-Jul-22
+382,2.5-100,GE Energy,No,2500,100,7854.0,3.14,3,75,100,85,241,52,378,2006,Not available,Link,06-Jul-22
+59,2.5xl,GE Energy,No,2500,100,7854.0,3.14,3,75,100,85,241,52,378,2004,Not available,Link,06-Jul-22
+60,3.0s,GE Energy,No,3000,90,6361.7,2.12,3,70,70,85,186,49,320,#ND,Not available,Link,06-Jul-22
+61,3.0sl,GE Energy,No,3000,94,6939.8,2.31,3,85,85,85,145,50,280,#ND,Not available,Link,06-Jul-22
+1195,3.6s,GE Energy,Yes,3600,104,8494.9,2.36,3,#ND,#ND,170,#ND,82,#ND,2002,Not available,Link,06-Jul-22
+62,3.6sl,GE Energy,Yes,3600,111,9676.9,2.69,3,#ND,#ND,185,#ND,83,#ND,#ND,Not available,Link,06-Jul-22
+1268,225/27,GET Danwin,No,225,27,572.6,2.54,3,30,39,7.6,13,4,24,#ND,Not available,Link,02-Jan-19
+864,Falcon 1250,GGS,No,1250,65,3318.3,2.65,3,68,68,12,#ND,24,#ND,#ND,Not available,Link,07-Jun-18
+1232,GWP100-2500,Global Wind Power,No,2500,100,7854.0,3.14,3,85,160,96,350,52,498,#ND,Not available,Link,02-Jan-19
+1233,GWP77-1500,Global Wind Power,No,1500,71,3959.2,2.64,3,65,80,65,#ND,35,#ND,#ND,Not available,Link,02-Jan-19
+669,GW100/2500,Goldwind,No,2500,100,7854.0,3.14,3,100,100,26,#ND,58,#ND,#ND,Not available,Link,08-Mar-22
+861,GW103/2500,Goldwind,No,2500,103,8332.3,3.33,3,80,90,26,#ND,63,#ND,#ND,Not available,Link,08-Mar-22
+1612,GW136/4000,Goldwind,No,4000,136,14526.7,3.63,3,100,110,135,#ND,95,#ND,#ND,Not available,Link,08-Mar-22
+1613,GW136/4200,Goldwind,No,4200,136,14526.7,3.46,3,100,110,135,#ND,95,#ND,#ND,Not available,Link,08-Mar-22
+440,GW62/1200,Goldwind,No,1200,62,3019.1,2.52,3,69,85,50,#ND,30,#ND,2005,Not available,Link,08-Mar-22
+439,GW70/1500,Goldwind,No,1500,70.3,3881.5,2.59,3,65,100,50,#ND,28,#ND,#ND,Not available,Link,08-Mar-22
+668,GW90/2500,Goldwind,No,2500,90,6361.7,2.54,3,70,80,26,#ND,57,#ND,#ND,Not available,Link,08-Mar-22
+298,S43/600,Goldwind,No,600,43,1452.2,2.42,3,40,60,23,62,12,97,#ND,Not available,Link,08-Mar-22
+299,S48/750,Goldwind,No,750,48,1809.6,2.41,3,50,60,22.5,44,15,81,2001,Not available,Link,08-Mar-22
+1583,MY1.5/89,Guangdong Mingyang,No,1500,89,6221.1,4.15,3,65,120,63,#ND,38,#ND,#ND,Not available,Link,27-Jun-22
+386,MY1.5s,Guangdong Mingyang,No,1500,77.1,4668.7,3.11,3,65,120,63,#ND,33,#ND,#ND,Not available,Link,27-Jun-22
+387,MY1.5se,Guangdong Mingyang,No,1500,82.6,5358.6,3.57,3,65,120,63,#ND,36,#ND,#ND,Not available,Link,27-Jun-22
+906,MY1.5sh,Guangdong Mingyang,No,1500,82.6,5358.6,3.57,3,65,120,63,#ND,36,#ND,#ND,Not available,Link,27-Jun-22
+904,MY1.5su/77,Guangdong Mingyang,No,1500,77.1,4668.7,3.11,3,65,120,63,#ND,33,#ND,#ND,Not available,Link,27-Jun-22
+905,MY1.5su/83,Guangdong Mingyang,No,1500,82.6,5358.6,3.57,3,65,120,63,#ND,36,#ND,#ND,Not available,Link,27-Jun-22
+1584,MY2.5/121,Guangdong Mingyang,No,2500,121,11499.0,4.60,3,85,130,83,#ND,78,#ND,#ND,Not available,Link,27-Jun-22
+1585,MYSE3.0/112,Guangdong Mingyang,No,3000,112,9852.0,3.28,3,85,130,83,#ND,78,#ND,#ND,Available,Link,27-Jun-22
+1586,MYSE3.0/121,Guangdong Mingyang,No,3000,121,11499.0,3.83,3,85,130,83,#ND,78,#ND,#ND,Available,Link,27-Jun-22
+1587,MYSE3.0/135,Guangdong Mingyang,No,3000,135,14313.9,4.77,3,85,130,85,#ND,87,#ND,#ND,Available,Link,27-Jun-22
+1618,MYSE5.5-155,Guangdong Mingyang,Yes,5500,155,18869.2,3.43,3,#ND,#ND,230,#ND,201,#ND,2018,Available,Link,27-Jun-22
+1712,MYSE6.45-180,Guangdong Mingyang,Yes,6450,178,24884.6,3.86,3,#ND,#ND,247,#ND,184,#ND,#ND,Available,Link,27-Jun-22
+1691,MYSE7.0-158,Guangdong Mingyang,Yes,7000,158,19606.7,2.80,3,#ND,#ND,254,#ND,201,#ND,#ND,Available,Link,27-Jun-22
+974,HW103 2.5 MW,Hewind,No,2500,103,8332.3,3.33,3,80,90,102,190 - 200,57,349 - 359,#ND,Available,Link,08-Dec-19
+972,HW110 2.0 MW,Hewind,No,2000,110,9503.3,4.75,3,100,100,80,161,50,320,#ND,Available,Link,03-Oct-18
+975,HW110 2.5 MW,Hewind,No,2500,110,9503.3,3.80,3,80,90,102,190 - 200,59,351 - 361,#ND,Available,Link,08-Dec-19
+719,HW43 600 kW,Hewind,No,600,43,1452.2,2.42,3,38.5,48.5,22,47 - 52,13,82 - 85,#ND,Not available,Link,03-Oct-18
+718,HW50 780 kW,Hewind,No,780,50,1963.5,2.52,3,50,50,24,49,24,97,#ND,Available,Link,03-Oct-18
+705,HW77 1.5 MW,Hewind,No,1500,77.1,4672.4,3.11,3,61.4,70,59,105 - 117,31,226 - 238,#ND,Available,Link,03-Oct-18
+969,HW82 1.5 MW,Hewind,No,1500,82.6,5362.5,3.57,3,70,80,59,106 - 116,32,229 - 239,#ND,Available,Link,03-Oct-18
+970,HW87 1.5 MW,Hewind,No,1500,87,5944.7,3.96,3,80,80,59,110,33,235,#ND,Available,Link,03-Oct-18
+706,HW87 1.5 MW Low Speed,Hewind,No,1500,87,5944.7,3.96,3,70,80,59,83 - 114,33,208 - 239,#ND,Available,Link,03-Oct-18
+971,HW92 1.5 MW,Hewind,No,1500,92,6647.6,4.43,3,80,90,59,133 - 143,35,261 - 271,#ND,Available,Link,03-Oct-18
+973,HW97 2.5 MW,Hewind,No,2500,97,7389.8,2.96,3,70,80,102,170 - 190,55,327 - 347,#ND,Available,Link,08-Dec-19
+1286,WPS-30/3,HOLEC,No,310,30.1,711.6,2.30,3,35,35,#ND,#ND,15,#ND,1998,Not available,Link,02-Jan-19
+1279,HSW 1000/57,HSW Husumer Schiffswerft,No,1050,57,2551.8,2.43,3,55,70,65.7,72,18,156,#ND,Not available,Link,02-Jan-19
+1278,HSW 750/48,HSW Husumer Schiffswerft,No,750,48.4,1839.8,2.45,3,65,65,22,63,10,95,#ND,Not available,Link,02-Jan-19
+1241,IT-70/1500,Ingetur,No,1500,70,3848.5,2.57,3,60,80,52.2,135,15,202,2004,Not available,Link,02-Jan-19
+1242,IT-77/1500,Ingetur,No,1500,77,4656.6,3.10,3,77,77,24,120,52,196,2004,Not available,Link,02-Jan-19
+410,Falcon 1.25 MW-64,Innovative Windpower,No,1250,64,3217.0,2.57,3,60,100,38,65,24,127,#ND,Not available,Link,07-Jun-18
+405,250 kW,ITP,No,250,30,706.9,2.83,2,30,50,7.5,#ND,3,#ND,#ND,Not available,Link,02-Jan-19
+1328,T600-48,ITP,No,600,48,1809.6,3.02,3,50,60,30,61,5,96,#ND,Not available,Link,26-Mar-18
+1312,44/600,Izar,No,600,44,1520.5,2.53,3,35,60,22.5,70,14,107,#ND,Not available,Link,07-Jun-18
+1313,62/1300,Izar,No,1300,62,3019.1,2.32,3,50,68,46.5,94,34,174,#ND,Not available,Link,07-Jun-18
+377,43/600,Jacobs,No,600,43,1452.2,2.42,3,40,60,23,62,12,97,#ND,Not available,Link,07-Jun-18
+1281,57/1000,Jacobs,No,1050,57,2551.8,2.43,3,55,70,65.7,72,18,156,#ND,Not available,Link,07-Jun-18
+331,MD70,Jacobs,No,1500,70,3848.5,2.57,3,65,85,56,#ND,33,#ND,#ND,Not available,Link,09-Mar-18
+332,MD77,Jacobs,No,1500,77,4656.6,3.10,3,61.5,90,56,#ND,35,#ND,#ND,Not available,Link,07-Jun-18
+1341,HWP-300,James Howden,No,300,22,380.1,1.27,3,22,22,11,15,3,29,#ND,Not available,Link,07-Jun-18
+1310,HWP-330,James Howden,No,330,31,754.8,2.29,3,25,25,17,22,5,45,#ND,Not available,Link,07-Jun-18
+1311,HWP-750,James Howden,No,750,45,1590.4,2.12,3,35,35,40,29,11,80,#ND,Not available,Link,07-Jun-18
+165,J48/750,Jeumont,No,750,48,1809.6,2.41,3,46,46,30,40,9,79,1999,Not available,Link,07-May-18
+678,J82,JSW,Yes,2000,83.3,5449.8,2.72,3,70,70,34,145,42,221,#ND,Not available,Link,18-Oct-22
+390,K100,Kenersys,No,2500,100,7854.0,3.14,3,85,135,90,#ND,55,#ND,2009,Not available,Link,28-Aug-18
+792,K110,Kenersys,No,2400,110,9503.3,3.96,3,95,145,90,#ND,62,#ND,#ND,Not available,Link,28-Aug-18
+892,K120,Kenersys,No,2300,120,11309.7,4.92,3,90,145,94,#ND,69,#ND,#ND,Not available,Link,28-Aug-18
+389,K82,Kenersys,No,2000,82,5281.0,2.64,3,80,98,60,#ND,38,#ND,2009,Not available,Link,28-Aug-18
+1208,33 M-VS,Kenetech,No,410,33,855.3,2.09,3,25,31,10,52,4,66,#ND,Not available,Link,07-Jun-18
+341,USW56,Kenetech,No,100,18,254.5,2.54,3,18,18,3.7,5,3,11,1983,Not available,Link,07-Jun-18
+1588,KWT300,Komaihaltec,No,300,33,855.3,2.85,3,41.5,43,#ND,#ND,5,#ND,#ND,Available,Link,04-Aug-22
+1282,Näsudden II,Kvaerner Turbin AB,No,3000,80.5,5089.6,1.70,2,78,78,131,1510,41,1682,1993,Not available,Link,02-Jan-19
+144,LW250-27,Lagerwey,No,250,27,572.6,2.29,2,36,50,7.5,51,3,61,#ND,Not available,Link,15-Oct-19
+145,LW250-30,Lagerwey,No,250,30,706.9,2.83,2,40,50,6,51,1,58,#ND,Not available,Link,15-Oct-19
+252,AE-30,Made,No,330,30,706.9,2.14,3,30,30,10.8,19,9,38,#ND,Not available,Link,02-Jan-19
+747,AE-45,Made,No,600,45,1590.4,2.65,3,44,44,25,40,12,77,#ND,Not available,Link,02-Jan-19
+48,AE-46/I,Made,No,660,46,1661.9,2.52,3,43.5,43.5,25,40,12,77,2002,Not available,Link,02-Jan-19
+50,AE-52,Made,No,800,52,2123.7,2.65,3,50,60,28.2,90,16,134,#ND,Not available,Link,02-Jan-19
+51,AE-56,Made,No,800,56,2463.0,3.08,3,50,60,29,90,15,134,#ND,Not available,Link,02-Jan-19
+52,AE-59,Made,No,800,59,2734.0,3.42,3,50,60,29.5,90,16,135,#ND,Not available,Link,02-Jan-19
+49,AE-61,Made,No,1320,61,2922.5,2.21,3,58.5,58.5,49,90,23,162,#ND,Not available,Link,02-Jan-19
+53,AE-90,Made,No,2000,90,6361.7,3.18,3,65,90,69,#ND,42,#ND,#ND,Not available,Link,02-Jan-19
+986,Mapna 2.5 MW,Mapna Group,No,2500,104,8494.9,3.40,3,85,85,96,170,52,318,#ND,Not available,Link,22-Apr-20
+1145,Aeolus II,MBB,No,3000,80.5,5089.6,1.70,2,92,92,64,1200,131,1395,#ND,Not available,Link,02-Jan-19
+1154,108 US,Micon,No,108,18.9,280.6,2.60,3,24,24,6.3,7,5,18,#ND,Not available,Link,02-Jan-19
+1156,M 450,Micon,No,200,24,452.4,2.26,3,30,30,9,12,4,25,#ND,Not available,Link,02-Jan-19
+374,M1500-500,Micon,No,500,43,1452.2,2.90,3,40,56.5,21,55,15,91,#ND,Not available,Link,02-Jan-19
+318,M1500-600,Micon,No,600,43,1452.2,2.42,3,40,56.5,21,55,10,86,#ND,Not available,Link,02-Jan-19
+319,M1500-750,Micon,No,750,44,1520.5,2.03,3,40.4,56.5,22,33,13,68,#ND,Not available,Link,02-Jan-19
+360,M1800-600/48,Micon,No,600,48,1809.6,3.02,3,60,60,23.5,55,18,97,#ND,Not available,Link,02-Jan-19
+502,M1800-750/48,Micon,No,750,48.2,1824.7,2.43,3,50,70,22,81,12,115,#ND,Not available,Link,02-Jan-19
+350,M530,Micon,No,250,26,530.9,2.12,3,30,30,8,13,5,26,#ND,Not available,Link,02-Jan-19
+805,MWT-300-29,Mitsubishi,No,300,29,660.5,2.20,3,30,30,17.9,18,6,42,#ND,Not available,Link,07-Jun-18
+364,MWT-450-39,Mitsubishi,No,450,39,1194.6,2.65,3,40,50,24,26,8,58,#ND,Not available,Link,07-Jun-18
+90,M5000,Multibrid,Yes,5000,116,10568.3,2.11,3,90,102,246,825,110,1181,2009,Not available,Link,07-Jun-18
+248,Bonus Mk-IV,Navantia-Siemens,No,600,44,1520.5,2.53,3,40,60,22.5,58,14,94,#ND,Not available,Link,29-Oct-19
+246,Izar 55/1300,Navantia-Siemens,No,1300,55,2375.8,1.83,3,68,90,50,198,26,274,#ND,Not available,Link,18-Oct-19
+1165,25/250,NedWind,No,250,25.5,510.7,2.04,3,30,30,13.2,5,8,25,#ND,Not available,Link,07-Jun-18
+1334,31/250,NedWind,No,250,31,754.8,3.02,3,30,45.5,10,18 - 60,5,"32,8 - 74,8",#ND,Not available,Link,07-Jun-18
+474,40/500,NedWind,Yes,500,40.8,1305.5,2.61,2,39,65,30.5,22,12,65,#ND,Not available,Link,07-Jun-18
+475,53/1000,NedWind,No,1000,52.6,2173.0,2.17,2,40,68,36.6,53,26,116,#ND,Not available,Link,07-Jun-18
+236,NM44/750,Neg Micon,No,750,44,1520.5,2.03,3,40,56,22,33,13,68,#ND,Not available,Link,07-Jun-18
+506,NM48/600,Neg Micon,No,600,48,1809.6,3.02,3,46,70,23,70,17,110,#ND,Not available,Link,07-Jun-18
+186,NM48/750,Neg Micon,No,750,48.2,1824.7,2.43,3,50,70,22,81,12,115,#ND,Not available,Link,07-Jun-18
+185,NM52/900,Neg Micon,No,900,52.2,2140.1,2.38,3,60,74,24.5,97,17,138,#ND,Not available,Link,07-Jun-18
+379,NM64c/1500,Neg Micon,No,1500,64,3217.0,2.14,3,68,80,43,148,29,220,#ND,Not available,Link,02-Jan-19
+487,NM72/1650,Neg Micon,No,1650,72,4071.5,2.47,3,70,93,51,120,28,199,#ND,Not available,Link,07-Jun-18
+330,NM72/2000,Neg Micon,Yes,2000,72,4071.5,2.04,3,64,95,76,113 - 130,40,229 - 246,#ND,Not available,Link,07-Jun-18
+232,NM82/1500,Neg Micon,No,1500,82,5281.0,3.52,3,94,109,48,230,42,320,2001,Not available,Link,03-Apr-18
+187,NM82/1650,Neg Micon,No,1650,82,5281.0,3.20,3,59,80,52,72 - 127,43,167 - 222,2003,Not available,Link,07-Jun-18
+184,NM92/2750,Neg Micon,No,2750,92,6647.6,2.42,3,104,104,83,230,57,370,#ND,Not available,Link,07-Jun-18
+862,200/30,NEPC,No,200,29.8,697.5,3.49,3,30,45,8.5,14 - 30,6,28 - 44,#ND,Not available,Link,27-Feb-20
+1108,225/30,NEPC,No,225,29.8,697.5,3.10,3,30,45,8.5,14 - 30,6,28 - 44,#ND,Not available,Link,27-Feb-20
+863,250/31,NEPC,No,250,31,754.8,3.02,3,30,45,8.5,14 - 30,6,28 - 44,#ND,Not available,Link,27-Feb-20
+1256,25 PI 250,Newinco,No,250,25,490.9,1.96,3,29,29,7.5,17,5,29,#ND,Not available,Link,02-Jan-19
+224,N100/2500,Nordex,No,2500,100,7854.0,3.14,3,75,100,91,310,57,456,#ND,Not available,Link,01-Jul-22
+151,N29/250,Nordex,No,250,29,660.5,2.64,3,36,50,14,33,5,52,1994,Not available,Link,01-Jul-22
+149,N43/600,Nordex,No,600,43,1452.2,2.42,3,40,78,24,67,17,108,1995,Not available,Link,01-Jul-22
+148,N50/800,Nordex,No,800,50,1963.5,2.45,3,46,70,23.4,89,16,128,1999,Not available,Link,01-Jul-22
+361,N52/800,Nordex,No,800,52,2123.7,2.65,3,#ND,#ND,#ND,#ND,19,#ND,1995,Not available,Link,01-Jul-22
+306,N54/1000,Nordex,No,1000,54,2290.2,2.29,3,60,70,56,105,23,184,1996,Not available,Link,01-Jul-22
+12,N60/1300,Nordex,No,1300,60,2827.4,2.17,3,46,69,51,73 - 106,22,146 - 179,1997,Not available,Link,01-Jul-22
+412,N80/2500,Nordex,No,2500,80,5026.5,2.01,3,60,105,91,111,50,254,2000,Not available,Link,01-Jul-22
+8,N90/2300,Nordex,Yes,2300,90,6361.7,2.77,3,60,105,91,180 - 320,53,324 - 484,2002,Not available,Link,01-Jul-22
+7,N90/2500,Nordex,No,2500,90,6361.7,2.54,3,65,80,91,173 - 319,55,319 - 465,2005,Not available,Link,01-Jul-22
+13,N90/2500 Offshore,Nordex,Yes,2500,90,6361.7,2.54,3,70,120,91,172,55,318,2005,Not available,Link,01-Jul-22
+11,S70,Nordex,No,1500,70,3848.5,2.57,3,65,114.5,56,100 - 145,32,188 - 233,1998,Not available,Link,01-Jul-22
+10,S77,Nordex,No,1500,77,4656.6,3.10,3,61.5,111.5,56,95 - 256,32,183 - 344,#ND,Not available,Link,01-Jul-22
+329,N1000-59,Nordic Windpower,No,1000,59,2734.0,2.73,2,60,70,40,63,4,107,#ND,Not available,Link,07-Jun-18
+150,NTK150/25,Nordtank,No,150,24.6,475.3,3.17,3,30,30,6,11,3,20,#ND,Not available,Link,07-Jun-18
+362,NTK1500/60,Nordtank,No,1500,60,2827.4,1.88,3,60,60,63.5,100,31,194,#ND,Not available,Link,07-Jun-18
+348,NTK300/31,Nordtank,No,300,31,754.8,2.52,3,31,35,12.8,23,4,39,#ND,Not available,Link,07-Jun-18
+399,NTK500/37,Nordtank,No,500,37,1075.2,2.15,3,35,50,16.8,42,10,69,#ND,Not available,Link,07-Jun-18
+385,NTK600/43,Nordtank,Yes,600,43,1452.2,2.42,3,44.5,60,20,60,6,86,#ND,Not available,Link,07-Jun-18
+831,29-STALL-200 kW,Norwin,No,200,29,660.5,3.30,3,30,50,7.6,"13,3 - 20,7",5,"26,2 - 33,6",#ND,Available,Link,13-Jun-22
+468,29-STALL-225 kW,Norwin,No,225,29,660.5,2.94,3,30,40,7.6,"13,2 - 20,7",5,"26,1 - 33,6",#ND,Available,Link,13-Jun-22
+467,46-ASR-750 kW,Norwin,No,750,46,1661.9,2.22,3,35,65,38.6,15,24,77,#ND,Not available,Link,13-Jun-22
+832,47-ASR-500 kW,Norwin,No,500,47,1734.9,3.47,3,40,65,24,#ND,15,#ND,#ND,Available,Link,13-Jun-22
+466,47-ASR-750 kW,Norwin,No,750,47,1734.9,2.31,3,40,65,38.6,15,24,77,#ND,Available,Link,13-Jun-22
+833,54-ASR-750 kW,Norwin,No,750,54,2290.2,3.05,3,40,65,23.5,#ND,11,#ND,#ND,Available,Link,13-Jun-22
+1251,PWE 1570,Pfleiderer,No,1500,70,3848.5,2.57,3,65,97,49.4,#ND,24,#ND,#ND,Not available,Link,02-Jan-19
+1252,PWE 1577,Pfleiderer,No,1500,77,4656.6,3.10,3,94,94,56,136,33,225,#ND,Not available,Link,02-Jan-19
+1250,PWE 650,Pfleiderer,No,600,50,1963.5,3.27,3,48,75,23.5,109,12,144,#ND,Not available,Link,02-Jan-19
+470,P250/29,Pioneer Wincon,No,250,29.6,688.1,2.75,3,48,48,#ND,24,4,#ND,#ND,Available,Link,14-Jun-22
+738,P750/49,Pioneer Wincon,No,750,49,1885.7,2.51,3,50,73,25,55,14,94,#ND,Available,Link,14-Jun-22
+1819,P750/57,Pioneer Wincon,No,750,57,2551.8,3.40,3,60,73,24,#ND,14,#ND,2021,Available,Link,14-Jun-22
+448,56,PowerWind,No,900,56,2463.0,2.74,3,59,98,30,#ND,19,#ND,2007,Available,Link,22-Aug-21
+1211,48/600,Repower,No,600,48.4,1839.8,3.07,3,50,75,25,#ND,10,#ND,#ND,Not available,Link,02-Jan-19
+1212,48/750,Repower,No,750,48.4,1839.8,2.45,3,50,75,26,#ND,10,#ND,#ND,Not available,Link,02-Jan-19
+14,5M,Repower,Yes,5000,126,12469.0,2.49,3,90,120,315,#ND,125,#ND,2004,Not available,Link,02-Jan-19
+19,MD70,Repower,No,1500,70,3848.5,2.57,3,65,114.5,56,#ND,33,#ND,#ND,Not available,Link,02-Jan-19
+18,MD77,Repower,No,1500,77,4656.6,3.10,3,61.5,111.5,56,#ND,35,#ND,#ND,Not available,Link,02-Jan-19
+17,MM70,Repower,No,2000,70,3848.5,1.92,3,55,80,61,#ND,34,#ND,#ND,Not available,Link,02-Jan-19
+16,MM82,Repower,No,2000,82,5281.0,2.64,3,59,100,66,#ND,36,#ND,2003,Not available,Link,02-Jan-19
+66,MM82 Evo,Repower,No,2050,82,5281.0,2.58,3,59,100,#ND,#ND,40,#ND,#ND,Not available,Link,02-Jan-19
+15,MM92,Repower,No,2000,92,6647.6,3.32,3,79,100,66,#ND,41,#ND,2005,Not available,Link,02-Jan-19
+35,MM92 Evo,Repower,No,2050,92,6647.6,3.24,3,68.5,100,#ND,#ND,45,#ND,#ND,Not available,Link,02-Jan-19
+1368,SE10020 DF,Sany,No,2000,102,8171.3,4.09,3,80,90,79,#ND,52,#ND,#ND,Not available,Link,21-Sep-22
+1445,SE10520,Sany,No,2000,105,8659.0,4.33,3,80,90,70,#ND,63,#ND,2017,Not available,Link,21-Sep-22
+1369,SE11520 DF,Sany,No,2000,115,10386.9,5.19,3,80,90,79,#ND,62,#ND,#ND,Not available,Link,21-Sep-22
+1446,SE12120,Sany,No,2000,121,11499.0,5.75,3,80,90,70,#ND,63,#ND,2017,Not available,Link,21-Sep-22
+1447,SE12125,Sany,No,2500,121,11499.0,4.60,3,90,120,79.5,#ND,66,#ND,2017,Not available,Link,21-Sep-22
+1448,SE13125,Sany,No,2500,131,13478.2,5.39,3,90,120,79.5,#ND,66,#ND,2017,Not available,Link,21-Sep-22
+1449,SE13130,Sany,No,3000,131,13478.2,4.49,3,90,120,79.5,#ND,66,#ND,2017,Not available,Link,21-Sep-22
+1364,SE8715 DF,Sany,No,1500,85,5674.5,3.78,3,70,80,56,#ND,36,#ND,#ND,Not available,Link,21-Sep-22
+1367,SE8720 DF,Sany,No,2000,87,5944.7,2.97,3,70,80,66,#ND,47,#ND,#ND,Not available,Link,21-Sep-22
+1444,SE9320,Sany,No,2000,93,6792.9,3.40,3,80,90,70,#ND,63,#ND,2017,Not available,Link,21-Sep-22
+1301,S 20 110,Seewind,No,110,22,380.1,3.46,3,25,31,5.4,12,1,19,#ND,Not available,Link,02-Jan-19
+1302,S 25 132,Seewind,No,132,22,380.1,2.88,3,25,31,5.4,12,1,19,#ND,Not available,Link,02-Jan-19
+1303,S 52 750,Seewind,No,750,52,2123.7,2.83,3,44,73.5,23,73,16,112,#ND,Not available,Link,02-Jan-19
+1442,2.3M120,Senvion,No,2330,120,11309.7,4.85,3,90,120,94,#ND,71,#ND,2017,Not available,Link,18-Aug-20
+1443,2.3M124,Senvion,No,2330,124,12076.3,5.18,3,90,120,94,#ND,96,#ND,2017,Not available,Link,18-Aug-20
+1440,2.4M110,Senvion,No,2430,109,9331.3,3.84,3,95,120,93.2,#ND,65,#ND,2017,Not available,Link,18-Aug-20
+1441,2.4M114,Senvion,No,2430,113,10028.7,4.13,3,95,120,93.2,#ND,90,#ND,2017,Not available,Link,18-Aug-20
+868,3.0M122,Senvion,No,3000,122,11689.9,3.90,3,139,139,58,#ND,68,#ND,#ND,Not available,Link,18-Aug-20
+577,3.2M114,Senvion,No,3200,114,10207.0,3.19,3,93,143,58,#ND,69,#ND,#ND,Not available,Link,18-Aug-20
+553,3.4M104,Senvion,No,3400,104,8494.9,2.50,3,73,100,58,#ND,60,#ND,#ND,Available,Link,18-Aug-20
+955,6.2M152,Senvion,Yes,6150,152,18145.8,2.95,3,95,124,80,#ND,157,#ND,#ND,Not available,Link,18-Aug-20
+68,6M126,Senvion,Yes,6150,126,12469.0,2.03,3,85,117,325,#ND,135,#ND,#ND,Not available,Link,18-Aug-20
+990,MM100,Senvion,No,2000,100,7854.0,3.93,3,74.5,100,72.4,#ND,43,#ND,#ND,Not available,Link,08-Feb-21
+464,MM82/2050,Senvion,No,2050,82,5281.0,2.58,3,58.5,80,69,#ND,36,#ND,#ND,Available,Link,18-Aug-20
+327,MM92/2050,Senvion,No,2050,92.5,6720.1,3.28,3,63.75,100,71,#ND,45,#ND,#ND,Available,Link,12-Oct-21
+745,SEPC 250T,Shriram EPC,No,250,28.5,637.9,2.55,3,40,48.5,10.5,33,3,46,#ND,Not available,Link,02-Jan-19
+24,SWT-1.3-62,Siemens,No,1300,62,3019.1,2.32,3,68,90,50,80 - 188,30,160 - 248,2003,Not available,Link,04-Jun-18
+551,SWT-2.3-101,Siemens,No,2300,101,8011.8,3.48,3,80,100,82,162,62,306,2008,Not available,Link,04-Jun-18
+403,SWT-2.3-108,Siemens,No,2300,108,9160.9,3.98,3,78.3,115,82,#ND,60,#ND,2011,Not available,Link,04-Jun-18
+749,SWT-2.3-113,Siemens,No,2300,113,10028.7,4.36,3,99.5,140,73,#ND,67,#ND,2011,Not available,Link,04-Jun-18
+606,SWT-2.3-120,Siemens,No,2300,120,11309.7,4.92,3,80,92.4,88,#ND,70,#ND,2015,Not available,Link,04-Jun-18
+23,SWT-2.3-82,Siemens,No,2300,82.4,5332.7,2.32,3,80,100,82,81 - 158,54,217 - 294,#ND,Not available,Link,04-Jun-18
+21,SWT-2.3-82 VS,Siemens,No,2300,82.4,5332.7,2.32,3,58.5,100,82,82 - 282,54,218 - 418,2004,Not available,Link,04-Jun-18
+22,SWT-2.3-93,Siemens,Yes,2300,93,6792.9,2.95,3,80,101,82,194 - 294,60,336 - 436,2005,Not available,Link,04-Jun-18
+275,SWT-3.0-101,Siemens,Yes,3000,101,8011.8,2.67,3,74.5,142.5,73,126,60,259,2011,Not available,Link,04-Jun-18
+920,SWT-3.0-108,Siemens,Yes,3000,108,9160.9,3.05,3,79.5,79.5,78,75,60,213,#ND,Not available,Link,04-Jun-18
+921,SWT-3.0-113,Siemens,Yes,3000,113,10028.7,3.34,3,79.5,142,78,75,67,220,#ND,Not available,Link,04-Jun-18
+1008,SWT-3.2-101,Siemens,Yes,3200,101,8011.8,2.50,3,74.5,99.5,78,73,60,211,#ND,Not available,Link,04-Jun-18
+97,SWT-3.2-108,Siemens,Yes,3200,108,9160.9,2.86,3,79.5,79.5,78,75,60,213,#ND,Not available,Link,04-Jun-18
+887,SWT-3.2-113,Siemens,Yes,3200,113,10028.7,3.13,3,79.5,142,78,75,67,220,#ND,Not available,Link,04-Jun-18
+1320,SWT-3.4-101,Siemens,No,3400,101,8011.8,2.36,3,74.5,94,78,#ND,92,#ND,#ND,Not available,Link,04-Jun-18
+20,SWT-3.6-107,Siemens,Yes,3600,107,8992.0,2.50,3,80,96,125,255,100,475,2005,Not available,Link,04-Jun-18
+79,SWT-3.6-120,Siemens,Yes,3600,120,11309.7,3.14,3,90,90,125,210,100,435,2010,Not available,Link,04-Jun-18
+956,SWT-4.0-120,Siemens,Yes,4000,120,11309.7,2.83,3,90,90,140,#ND,100,#ND,#ND,Not available,Link,04-Jun-18
+957,SWT-4.0-130,Siemens,Yes,4000,130,13273.2,3.32,3,89.5,89.5,#ND,#ND,100,#ND,#ND,Not available,Link,04-Jun-18
+735,250/50,SIVA,No,250,30,706.9,2.83,3,30,48,10.5,24,4,38,#ND,Available,Link,09-Nov-21
+1021,SRC 200/30,SRC Green Power,No,200,29.8,697.5,3.49,3,30,45,8.5,14 - 30,6,31 - 47,#ND,Not available,Link,31-Oct-19
+1022,SRC 225/30,SRC Green Power,No,225,29.8,697.5,3.10,3,30,45,8.5,14 - 30,6,31 - 47,#ND,Not available,Link,31-Oct-19
+817,SRC 250/50,SRC Green Power,No,250,31,754.8,3.02,3,30,50,8.5,14 - 30,6,31 - 47,#ND,Not available,Link,31-Oct-19
+1308,NEWECS-25,Stork,No,300,26.5,551.5,1.84,2,22,35,10,28,3,41,1985,Not available,Link,02-Jan-19
+1309,NEWECS-45,Stork,No,1000,45,1590.4,1.59,2,60,60,29,65,6,100,1988,Not available,Link,02-Jan-19
+1111,S46/600,Südwind,No,600,46,1661.9,2.77,3,51.5,74,18,65,11,94,1997,Not available,Link,02-Jan-19
+1166,S46/750,Südwind,No,750,46,1661.9,2.22,3,51.5,74,#ND,#ND,11,#ND,#ND,Not available,Link,02-Jan-19
+311,S70/1500,Südwind,No,1500,70,3848.5,2.57,3,65,114.5,56,260,32,348,#ND,Not available,Link,16-Feb-21
+310,S77/1500,Südwind,No,1500,77,4656.6,3.10,3,61.5,114.5,56,260,32,348,#ND,Not available,Link,02-Jan-19
+766,S95/2100,Suzlon,No,2100,95,7088.2,3.38,3,80,100,#ND,#ND,45,#ND,2011,Not available,Link,14-Jul-22
+767,S97/2100,Suzlon,No,2100,97,7389.8,3.52,3,90,120,20,#ND,46,#ND,2011,Not available,Link,14-Jul-22
+1823,Windflow 33-500,SyncWind,No,500,33.2,865.7,1.73,2,29,31,3,8 - 15,7,18 - 25,#ND,Available,Link,13-Jul-22
+384,TW-250,Tacke,No,250,24.7,479.2,1.92,3,30,55,20,30,3,53,#ND,Not available,Link,07-Jun-18
+1236,TW-300,Tacke,No,300,33,855.3,2.85,3,40,50,13,39,5,57,#ND,Not available,Link,07-Jun-18
+369,TW-500,Tacke,No,500,37,1075.2,2.15,3,40,43,26,31,5,62,#ND,Not available,Link,07-Jun-18
+26,T600-48,Turbowinds,No,600,48,1809.6,3.02,3,50,60,30,61,5,96,#ND,Not available,Link,05-Mar-19
+272,62,Vensys,No,1200,62,3019.1,2.52,3,69,85,50,#ND,31,#ND,2005,Not available,Link,13-Sep-22
+273,64,Vensys,No,1200,64,3217.0,2.68,3,85,85,50,#ND,25,#ND,2005,Not available,Link,13-Sep-22
+271,70,Vensys,No,1500,70,3848.5,2.57,3,65,65,50,#ND,32,#ND,2006,Not available,Link,13-Sep-22
+270,77,Vensys,No,1500,76.8,4632.5,3.09,3,61.5,100,50,#ND,34,#ND,2007,Not available,Link,13-Sep-22
+1300,V12 500,Ventis,No,500,40,1256.6,2.51,2,43.5,55,25,53,11,89,#ND,Not available,Link,02-Jan-19
+203,GEV 26/200,Vergnet,No,200,26,530.9,2.65,2,50,60,5.4,12,2,19,#ND,Not available,Link,08-Jan-18
+204,GEV 26/220,Vergnet,No,220,26,530.9,2.41,2,50,60,5.4,12,2,19,1999,Not available,Link,08-Jan-18
+88,GEV MP 275/32,Vergnet,No,275,32,804.2,2.92,2,55,60,4,9,8,21,2004,Available,Link,06-Aug-18
+779,V100/2000,Vestas,No,2000,100,7854.0,3.93,3,80,120,78,250,45,373,#ND,Available,Link,08-Jul-22
+34,V100/2750,Vestas,No,2750,100,7854.0,2.86,3,100,100,70,235,44,349,#ND,Not available,Link,08-Jul-22
+484,V20/100,Vestas,No,100,20,314.2,3.14,3,24,24,4.6,6,2,12,1987,Not available,Link,08-Jul-22
+170,V25/200,Vestas,No,200,25,490.9,2.45,3,30,38.5,7.1,12,3,22,1988,Not available,Link,08-Jul-22
+208,V27/225,Vestas,No,225,27,572.6,2.54,3,33.5,33.5,7.9,9 - 12,3,"19,8 - 22,8",1989,Not available,Link,08-Jul-22
+169,V39/500,Vestas,No,500,39,1194.6,2.39,3,40,53,18,58,4,80,1991,Not available,Link,08-Jul-22
+245,V42/600,Vestas,No,600,42,1385.4,2.31,3,40.5,53,17.3,41,8,67,#ND,Not available,Link,08-Jul-22
+177,V44/600,Vestas,No,600,44,1520.5,2.53,3,40,63,19.8,58,9,87,1995,Not available,Link,08-Jul-22
+176,V47/660,Vestas,No,660,47,1734.9,2.63,3,40,55,20.4,66,7,94,1997,Not available,Link,08-Jul-22
+27,V52/850,Vestas,No,850,52,2123.7,2.50,3,40,65,22,77 - 111,10,109 - 143,2000,Not available,Link,08-Jul-22
+1193,V63/1500,Vestas,No,1500,63.6,3176.9,2.12,3,60,60,52.2,30,76,158,1995,Not available,Link,08-Jul-22
+372,V66/1650,Vestas,No,1650,66,3421.2,2.07,3,60,78,53,141,23,217,#ND,Not available,Link,08-Jul-22
+168,V66/1750,Vestas,No,1750,66,3421.2,1.95,3,60,78,57,199,23,279,1999,Not available,Link,08-Jul-22
+1191,V66/2000,Vestas,Yes,2000,66,3421.2,1.71,3,60,78,57,146,23,226,#ND,Not available,Link,08-Jul-22
+29,V80/1800,Vestas,No,1800,80,5026.5,2.79,3,60,78,67,115 - 195,37,219 - 299,#ND,Not available,Link,08-Jul-22
+30,V80/2000,Vestas,No,2000,80,5026.5,2.51,3,60,100,68,122 - 198,37,227 - 303,2000,Not available,Link,08-Jul-22
+28,V82/1650,Vestas,No,1650,82,5281.0,3.20,3,59,80,52,72 - 127,43,167 - 222,2003,Not available,Link,08-Jul-22
+31,V90/1800,Vestas,No,1800,90,6361.7,3.53,3,80,105,68,148 - 245,38,254 - 351,#ND,Not available,Link,08-Jul-22
+32,V90/2000,Vestas,No,2000,90,6361.7,3.18,3,80,125,68,206 - 335,36,310- 439,2004,Available,Link,08-Jul-22
+33,V90/3000,Vestas,No,3000,90,6361.7,2.12,3,65,105,68,155 - 235,28,251 - 331,2002,Not available,Link,08-Jul-22
+1718,WD2.5-103,WDRVM,No,2500,103,8332.3,3.33,3,70,90,#ND,176 - 270,56,#ND,2019,Available,Link,15-Dec-21
+1262,LS1,WEG Wind EnergyGroup,No,3000,60,2827.4,0.94,2,#ND,#ND,#ND,#ND,31,#ND,1987,Not available,Link,27-May-19
+1264,WEG MS-3,WEG Wind EnergyGroup,No,300,33,855.3,2.85,3,25,30,#ND,13,5,#ND,1988,Not available,Link,27-May-19
+1265,WEG MS-4,WEG Wind EnergyGroup,No,600,41,1320.3,2.20,3,40,40,22.7,31,9,62,1997,Not available,Link,27-May-19
+855,WES100,WES,No,100,17.9,251.6,2.52,2,18,30,2.2,#ND,1,#ND,1983,Available,Link,18-Oct-22
+494,WES250,WES,No,250,30,706.9,2.83,2,30,48,7.1,#ND,4,#ND,1994,Available,Link,18-Oct-22
+1733,WES32/100,WES,No,100,32,804.2,8.04,2,30,48,7.1,#ND,4,#ND,2020,Not available,Link,18-Oct-22
+1780,WES34/100,WES,No,100,34,907.9,9.08,2,30,48,7.1,13,4,23,2020,Available,Link,18-Oct-22
+880,WESPA 200/29,WESPA,No,205,29,660.5,3.22,3,36,50,8.25,18 - 32,5,"31,5 - 45,5",#ND,Available,Link,21-Mar-22
+580,WESPA 200/31,WESPA,No,205,31,754.8,3.68,3,36,50,8.25,18 - 32,6,"31,8 - 45,8",#ND,Available,Link,21-Mar-22
+882,WESPA 225/29,WESPA,No,225,29,660.5,2.94,3,30,40,7.6,"13,2 - 20,7",5,"26,1 - 33,6",#ND,Not available,Link,21-Mar-22
+883,WESPA 500/47,WESPA,No,500,47,1734.9,3.47,3,45,65,24,#ND,15,#ND,#ND,Available,Link,21-Mar-22
+884,WESPA 750/47,WESPA,No,750,47,1734.9,2.31,3,45,65,38.6,15,24,77,#ND,Available,Link,21-Mar-22
+885,WESPA 750/54,WESPA,No,750,54,2290.2,3.05,3,40,65,23.5,#ND,11,#ND,#ND,Not available,Link,21-Mar-22
+1259,Gamma 2,West,No,2000,60,2827.4,1.41,2,66,66,77,130,23,230,#ND,Not available,Link,02-Jan-19
+1261,Gamma 60,West,No,1500,60,2827.4,1.88,2,61,61,89,121,30,240,1992,Not available,Link,02-Jan-19
+1260,Medit 320,West,No,320,33,855.3,2.67,2,26,26,15,16,7,38,#ND,Not available,Link,02-Jan-19
+1207,W755/48,Wincon,No,755,48,1809.6,2.40,3,45,73,21.6,#ND,21,#ND,#ND,Not available,Link,02-Jan-19
+1224,537,Wind Technik Nord,No,500,37,1075.2,2.15,3,40,50,21,30,7,58,#ND,Not available,Link,17-Jan-22
+125,646,Wind Technik Nord,No,600,46,1661.9,2.77,3,50,65,24.5,54,11,89,#ND,Not available,Link,17-Jan-22
+1009,200/28,Wind Technik Nord,No,200,28,615.8,3.08,3,50,50,10.5,30,4,44,#ND,Not available,Link,17-Jan-22
+124,WTN250,Wind Technik Nord,No,250,30,706.9,2.83,3,30,50,10.5,24,4,38,#ND,Available,Link,17-Jan-22
+783,WTN500,Wind Technik Nord,No,500,48,1809.6,3.62,3,50,65,24.5,"54 - 61,5",12,"90,3 - 97,8",#ND,Available,Link,17-Jan-22
+131,WTN600,Wind Technik Nord,No,600,48,1809.6,3.02,3,50,65,24.5,95,11,130,#ND,Available,Link,17-Jan-22
+454,W150/27,Wind World,No,150,27,572.6,3.82,3,31,41,8,19,5,32,#ND,Not available,Link,07-Jun-18
+482,W2320/150,Wind World,No,150,23.2,422.7,2.82,3,30,30,4.2,11,3,18,#ND,Not available,Link,07-Jun-18
+480,W2320/160,Wind World,No,160,23.2,422.7,2.64,3,30,30,4.2,11,3,18,#ND,Not available,Link,07-Jun-18
+456,W250/29,Wind World,No,250,29.2,669.7,2.68,3,31,50,7.9,34,5,47,#ND,Not available,Link,07-Jun-18
+497,W2500/220,Wind World,Yes,220,25,490.9,2.23,3,31,31,6.8,14,5,25,#ND,Not available,Link,07-Jun-18
+363,W3700/500,Wind World,No,500,37,1075.2,2.15,3,33.5,41,21.4,27,11,59,#ND,Not available,Link,07-Jun-18
+1203,W4100,Wind World,No,500,40.1,1262.9,2.53,3,41.5,49.5,26.1,39,8,73,#ND,Not available,Link,07-Jun-18
+504,W5200/750,Wind World,No,750,52,2123.7,2.83,3,#ND,#ND,26,65,18,109,#ND,Not available,Link,07-Jun-18
+452,W600/42,Wind World,No,600,42,1385.4,2.31,3,45,65,23,70,12,105,#ND,Not available,Link,07-Jun-18
+432,WD25-250kW,Windey,No,250,25,490.9,1.96,3,28.5,28.5,10,34,4,48,#ND,Not available,Link,10-Jan-20
+430,WD49-750kW,Windey,No,750,49,1885.7,2.51,3,50,65,23,90,10,123,#ND,Not available,Link,10-Jan-20
+431,WD50-750kW,Windey,No,750,50,1963.5,2.62,3,50,65,23,90,12,125,#ND,Not available,Link,10-Jan-20
+141,Windflow 33-500,WindFlow,No,500,33.2,865.7,1.73,2,29,31,3,8 - 15,7,18 - 25,#ND,Not available,Link,26-Jul-21
+1344,WM25/300,Windmaster,No,300,25,490.9,1.64,3,22.6,30,6.2,"8,5 - 18",4,"18,5 - 28",#ND,Not available,Link,07-Jun-18
+1292,WM30/300,Windmaster,No,300,30,706.9,2.36,3,33,50,15,18,3,38,#ND,Not available,Link,07-Jun-18
+235,F48,Windstrom Frisia,No,750,48,1809.6,2.41,3,65,75,26,72,13,111,#ND,Not available,Link,07-Jun-18
+234,F56,Windstrom Frisia,No,850,56,2463.0,2.90,3,70,70,28,74,16,118,#ND,Not available,Link,01-Oct-20
+1213,650,Windtec,No,600,50,1963.5,3.27,3,47,65,28,68,8,104,#ND,Not available,Link,02-Aug-22
+192,1570,Windtec,No,1500,70,3848.5,2.57,3,63,87,70,130,30,230,#ND,Not available,Link,02-Aug-22
+1214,1577,Windtec,No,1500,77,4656.6,3.10,3,94,94,70,200,33,303,#ND,Not available,Link,02-Aug-22
+111,Floda 600,Windtec,No,600,45.8,1647.5,2.75,3,40,60,27,60,11,98,1990,Not available,Link,02-Aug-22
+875,E40/500,Wobben,No,500,40,1256.6,2.51,3,42,65,26.5,#ND,120,#ND,#ND,Not available,Link,03-Oct-22
+872,E82/2000,Wobben,No,2000,82,5281.0,2.64,3,78,138,#ND,#ND,55,#ND,#ND,Not available,Link,03-Oct-22
+873,E82/2300,Wobben,No,2300,82,5281.0,2.30,3,78,138,#ND,#ND,55,#ND,#ND,Not available,Link,03-Oct-22
+1387,E82/2350,Wobben,No,2350,82,5281.0,2.25,3,78,84,#ND,#ND,55,#ND,2016,Not available,Link,03-Oct-22
+1371,XD115-5000,XEMC-Darwind,Yes,5000,115,10386.9,2.08,3,80,140,184,#ND,97,#ND,2016,Available,Link,02-Aug-22
+1001,XD137-4000,XEMC-Darwind,No,4000,137,14741.1,3.69,3,100,140,185,#ND,111,#ND,#ND,Not available,Link,02-Aug-22
+1506,XD140-4000,XEMC-Darwind,No,4000,140,15393.8,3.85,3,100,140,188,#ND,110,#ND,2017,Available,Link,02-Aug-22
+732,XE/DD115,XEMC-Darwind,Yes,5000,115,10386.9,2.08,3,80,140,184,#ND,90,#ND,#ND,Not available,Link,02-Aug-22
+1062,XE128-5000,XEMC-Darwind,Yes,5000,128,12868.0,2.57,3,100,140,206,#ND,126,#ND,#ND,Available,Link,02-Aug-22
+728,XE72-2000,XEMC-Darwind,No,2000,70.7,3920.3,1.96,3,65,100,66,150,36,252,#ND,Not available,Link,02-Aug-22
+729,XE82-2000,XEMC-Darwind,No,2000,82.7,5376.8,2.69,3,70,80,74,#ND,40,#ND,#ND,Not available,Link,02-Aug-22
+731,XE93-2000,XEMC-Darwind,No,2000,93.4,6851.5,3.43,3,65,80,47.5,#ND,85,#ND,#ND,Available,Link,02-Aug-22
+1121,Z-40-FS,Zond,No,550,40,1256.6,2.28,3,39,52,#ND,#ND,9,#ND,#ND,Not available,Link,07-Jun-18
+931,Z-50,Zond,No,750,50,1963.5,2.62,3,55,65,21.5,49,15,85,#ND,Not available,Link,07-Jun-18
