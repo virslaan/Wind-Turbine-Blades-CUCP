@@ -1,3 +1,0 @@
-NY solid waste management facilities: https://data.ny.gov/Energy-Environment/Solid-Waste-Management-Facilities/2fni-raj8/data
-NY Recyclables Handling & Recovery Facilities (RHRF): https://data.ny.gov/Energy-Environment/Recyclables-Handling-Recovery-Facilities-RHRF-Soli/v9cx-y7xx
-	- part of solid waste management 
