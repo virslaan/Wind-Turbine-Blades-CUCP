@@ -1,0 +1,318 @@
+Facility Name,Location Address,Location Address2,City,State,Zip Code,County,Region,Phone Number,Owner Name,Owner Type,Activity Desc,Activity Number,Active,East Coordinate,North Coordinate,Accuracy Code,Waste Types,Authorization Number,Authorization Issue Date,Expiration Date,Georeference
+Albany (City) SWMF,525 Rapp Road,,Albany,NY,12205,Albany,4,5188693651,City of Albany,Municipal,Landfill - MSW - permit,[01S02],Yes,594201,4728891,1.1 - Obtained from original submission and unverified process,Asbestos (Friable);Non-petroleum Contaminated Soil;Ash (WWTP Sludge);Construction & Demolition Debris;MSW (Residential/Institutional & Commercial),4-0101-00171/00011,06/25/2009,06/25/2019,"525 Rapp Road
+Albany, NY 12205
+(42.702565, -73.851095)"
+Lafarge North America Inc,1916 State Route 9W,,Coeymans,NY,12143,Albany,4,5187565028,Lafarge North America,Private,Landfill - industrial waste monofill - permit,[01N20],Yes,597471,4706624,,Dust (Cement Kiln);Cement Contaminated with Coal,4-0124-00001/00053,04/24/2006,08/21/2007,
+Colonie (T) SWMF,4 Arrowhead Lane,,Colonie,NY,12047,Albany,4,5187832827,Town of Colonie,Municipal,Landfill - MSW - permit,[01LS2601],Yes,603789,4740487,,Yard Waste;Construction & Demolition Debris;Petroleum Contaminated Soil;Industrial;Animal Carcasses;MSW (Residential/Institutional & Commercial),4-0126-00033/00001,04/05/2018,04/04/2028,"4 Arrowhead Lane
+Colonie, NY 12047
+(42.801704, -73.730765)"
+Gil Housel,120 Vine Lane,,Guilderland,NY,12303,Albany,4,5183567827,Gil Housel,Private,Landfill - land clearing debris,[01D01],Yes,586156,4732794,4.2 - Utilization of GIS and existing spatial data,,01D01,07/16/2010,,"120 Vine Lane
+Guilderland, NY 12303
+(42.742889, -73.947199)"
+Hyland Landfill,6653 Herdman Road,Hyland Facility Associates,Angelica,NY,14709,Allegany,9,5854667271,Hyland Facility Associates,Private,Landfill - MSW - permit,[02S17],Yes,251801,4686020,4.2 - Utilization of GIS and existing spatial data,Asbestos (Friable);Construction & Demolition Debris;Non-petroleum Contaminated Soil;Sludge (Industrial);Biosolids;MSW (Residential/Institutional & Commercial);Petroleum Contaminated Soil,9-0232-00003/00002,12/01/2015,05/01/2025,
+L.C. Whitford Co. C&D Landfill,Phillips Road,,Wellsville,NY,14880,Allegany,9,5858086725,The L.C. Whitford Co.; Inc.,Private,Landfill - C&DD - permit,[02D06],Yes,254099,4668581,4.2 - Utilization of GIS and existing spatial data,Construction & Demolition Debris,9-0266-00011/00004,10/31/2017,10/30/2027,
+Voorhees Hill Road C&D Landfill,Voorhees Hill Road @ Lewis Road,,Wellsville,NY,14895,Allegany,9,5855936177,Southern Tier Kleenfill; Inc.,Private,Landfill - C&DD - permit,[02D05],Yes,262052,4666368,4.2 - Utilization of GIS and existing spatial data,Construction & Demolition Debris,9-0270-00035/00003,08/11/2010,09/01/2020,"Voorhees Hill Road @ Lewis Road
+Wellsville, NY 14895
+(42.112931, -77.875235)"
+Broome County Landfill,286 Knapp Road,,Binghamton,NY,13905,Broome,7,6077634275,Broome County DSWM,County,Landfill - MSW - permit,[04LS0011],Yes,419649,4676879,4.3 - Utilization of Digital Orthophoto Quads,MSW (Residential/Institutional & Commercial);Construction & Demolition Debris;Asbestos (Friable);Petroleum Contaminated Soil,7-0399-00027/00002,03/23/2022,03/22/2032,"286 Knapp Road
+Binghamton, NY 13905
+(42.243511, -75.985169)"
+Joker's Wild Ranch; LLC Shavings Mill,709 Pleasant Hill Road,,Port Crane,NY,13833,Broome,7,6073490770,Thomas Illsley,,Landfill - land clearing debris,[04D03],Yes,435926,4669569,,Wood (Brush/ Branches/ Trees/ Stumps),04D03,12/16/2015,,"709 Pleasant Hill Road
+Port Crane, NY 13833
+(42.174881, -75.7792)"
+Farwell Landfill,1430 Farwell Road,,Ischua,NY,14743,Cattaraugus,9,7165578324,Cattaraugus County DPW,County,Landfill - land clearing debris,[05D38],Yes,220881,4679865,4.2 - Utilization of GIS and existing spatial data,Land Clearing Debris,05D38,,,"1430 Farwell Road
+Ischua, NY 14743
+(42.219462, -78.386938)"
+Chautauqua Landfill,3889 Towerville Road,,Ellery,NY,14701-9653,Chautauqua,9,7169854785,Chautauqua County,County,Landfill - MSW - permit,[07S12],Yes,143329,4681819,4.2 - Utilization of GIS and existing spatial data,Ash (Coal-Bottom);Ash (Coal-Fly);Asbestos (Non-Friable);Construction & Demolition Debris;Sludge (Industrial);Waste Tires;Asbestos (Friable);Biosolids;MSW (Residential/Institutional & Commercial),9-0636-00006/00013,10/07/2015,10/06/2025,"3889 Towerville Road
+Ellery, NY 14701-9653
+(42.201451, -79.315205)"
+Carroll C&D Management Facility,309 Dodge Road,,Frewsburg,NY,14738,Chautauqua,9,7165695074,Carol Jones,Private,Landfill - C&DD - permit,[07LC0056],Yes,161498,4659345,,,,,,"309 Dodge Road
+Frewsburg, NY 14738
+(42.015661, -79.087312)"
+Dunkirk Fly Ash Landfill,5141 Van Buren Road,,Pomfret,NY,14063,Chautauqua,9,7166736343,Dunkirk Power LLC,Private,Landfill - industrial waste monofill - permit,[07N21],Yes,138726,4708547,4.2 - Utilization of GIS and existing spatial data,Ash (Coal-Bottom);Ash (Coal-Fly),,,,
+Chemung County Area 3 C&D Landfill,1488 County Road 60,,Chemung,NY,14825,Chemung,8,8002273552,Chemung County,County,Landfill - C&DD - permit,[08D04],Yes,360817,4654738,3.6 - Unknown type,Construction & Demolition Debris,8-0728-00004/00007,09/26/2005,09/25/2015,
+Chemung County Sanitary Landfill,1488 County Route 60,,Chemung,NY,14825,Chemung,8,8002273552,Chemung County,County,Landfill - MSW - permit,[08S02],Yes,360822,4654736,,Non-Radioactive;Construction & Demolition Debris;Petroleum Contaminated Soil;Industrial;MSW (Residential/Institutional & Commercial),8-0728-00004/00013,06/02/2016,06/01/2026,"1488 County Route 60
+Chemung, NY 14825
+(42.070524, -77.73724)"
+Voorhees Land Clearing Debris,1053/1056 Hoffman Hollow Road,,Lowman,NY,14861,Chemung,8,6072592014,Floyd R Voorhees,Private,Landfill - land clearing debris,[08D09],Yes,360742,4661381,,Land Clearing Debris,08D09,,,
+Chenango County Landfill,439 County Road 47,,Norwich,NY,13815,Chenango,7,6073371790,Chenango County,County,Landfill - MSW - permit,[09S16],Yes,444503,4713241,4.3 - Utilization of Digital Orthophoto Quads,Treated RMW;MSW (Residential/Institutional & Commercial);Construction & Demolition Debris;Asbestos (Friable);Industrial;Sewage Treatment Plant Sludge,7-0848-00005/00003,07/08/2015,07/07/2025,"439 County Road 47
+Norwich, NY 13815
+(42.559415, -75.670908)"
+East Murtagh Hill Road LCD Lf,Murtagh Hill Road,,Altona,NY,12910,Clinton,5,5185634188,George J. Barber,Municipal,Landfill - land clearing debris,[10D09],Yes,612127,4961428,1 - No accuracy stated,Land Clearing Debris,10D09,,,
+Champlain (V) LCD Landfill,11104 State Route 9,,Champlain,NY,12919,Clinton,5,5182984152,Village of Champlain,Municipal,Landfill - land clearing debris,[10D19],Yes,622930,4982521,4 - GIS Assisted,,10D19,,,
+Grasshopper Pit LCD Lf,Route 22 (West Side),,Chesterfield,NY,12944,Clinton,5,5188344617,Ray Jay Properties LLC,Private,Landfill - land clearing debris,[16D05],Yes,618981,4930230,1 - No accuracy stated,Land Clearing Debris,16D05,11/20/1997,,
+Clinton County Landfill,286 Sand Road,,Morrisonville,NY,12962,Clinton,5,5185635514,Clinton County,County,Landfill - MSW - permit,[10S20],Yes,611178,4950413,4.3 - Utilization of Digital Orthophoto Quads,Construction & Demolition Debris;MSW (Residential/Institutional & Commercial),5-0946-00049/00005,03/02/2018,03/01/2023,"286 Sand Road
+Morrisonville, NY 12962
+(44.690578, -73.595272)"
+NEWSNY/Clinton County LCD LF,286 Sand Road,,Morrisonville,NY,12962,Clinton,5,5185635514,Clinton County,County,Landfill - land clearing debris,[10D17],Yes,611553,4949667,4.3 - Utilization of Digital Orthophoto Quads,,10D17,01/20/2010,,"286 Sand Road
+Morrisonville, NY 12962
+(44.690578, -73.595272)"
+L&R Landscaping LCD Lf,Fuller Road,,Peru,NY,12972,Clinton,5,5185614467,Todd Deyo,Private,Landfill - land clearing debris,[10D12],Yes,621410,4934618,1 - No accuracy stated,Land Clearing Debris,10D12,10/13/1999,,
+Reeves/Norco LCD Landfill,Reeves Lane,,Plattsburgh,NY,12901,Clinton,5,5185367519,City of Plattsburgh,Municipal,Landfill - land clearing debris,[10D14],Yes,620022,4948645,1 - No accuracy stated,Land Clearing Debris,10D14,04/02/2002,,
+X-Plo LCD Lf,Kelly Road,,Plattsburgh,NY,12901,Clinton,5,5185617810,Don Jerry X-Plo Inc,Private,Landfill - land clearing debris,[10D05],Yes,617634,4946383,1 - No accuracy stated,,10D05,05/24/1994,,
+Trudeau  Sand & Gravel,1115 NYS Route 3,PO Box 235,Saranac Lake,NY,12983,Clinton,5,5188911940,Richard A Trudeau,Private,Landfill - land clearing debris,[10D11],Yes,572087,4913779,4.2 - Utilization of GIS and existing spatial data,Land Clearing Debris,10D11,07/30/1999,,"1115 NYS Route 3
+Saranac Lake, NY 12983
+(44.372351, -74.096025)"
+Cortland County Landfill Westside Extension,4708 Town Line Rd.,,McGraw,NY,13101,Cortland,7,6077568077,Cortland County,County,Landfill - MSW - permit,[12LS0001],Yes,412515,4720747,4.3 - Utilization of Digital Orthophoto Quads,MSW (Residential/Institutional & Commercial);Construction & Demolition Debris;Sewage Treatment Plant Sludge;Asbestos (Friable & Non-Friable),7-1122-00052/00007,11/12/2014,11/11/2024,"4708 Town Line Rd.
+McGraw, NY 13101
+(42.627202, -76.070085)"
+Burton Clark C & D,41155 State Highway 10,,Delhi,NY,13753,Delaware,4,6077462727,Burton F. Clark; Inc.,Private,Landfill - C&DD - permit,[13D02],Yes,503403,4678357,,Construction & Demolition Debris,4-1228-00043/00004,04/30/2018,04/30/2023,"41155 State Highway 10
+Delhi, NY 13753
+(42.256915, -74.956939)"
+Mountain Valley Fuel Woods,160 Kissimmie Rd.,,Fleischmanns,NY,12430,Delaware,4,8452544306,John Blish,Private,Landfill - land clearing debris,[13D05],Yes,537256,4667504,1 - No accuracy stated,Land Clearing Debris,13D05,09/24/2004,,"160 Kissimmie Rd.
+Fleischmanns, NY 12430
+(42.159464, -74.549365)"
+Delaware County SWMF,32230 NYS Route 10,,Walton,NY,13856,Delaware,4,6077462128,Delaware County,County,Landfill - C&DD - permit,[13D01],Yes,495542,4667569,1.1 - Obtained from original submission and unverified process,Construction & Demolition Debris,4-1256-00040/00004,07/22/2019,06/01/2024,
+Delaware County SWMF,32230 NYS Route 10,,Walton,NY,13856,Delaware,4,6077462128,Delaware County,County,Landfill - MSW - permit,[13S18],Yes,495542,4667569,1.1 - Obtained from original submission and unverified process,MSW (Residential/Institutional & Commercial);Construction & Demolition Debris;Asbestos (Friable);Sewage Treatment Plant Sludge;Wood (Brush/ Branches/ Trees/ Stumps);Petroleum Contaminated Soil;Commingled Paper & Containers,4-1256-00008/00007,07/19/2019,06/04/2024,
+Chaffee Landfill,10860 Olean Road,,Chaffee,NY,14030-9799,Erie,9,7164965192,Waste Management of New York LLC,Private,Landfill - MSW - permit,[15S14],Yes,213129,4720120,4.2 - Utilization of GIS and existing spatial data,Ash (Coal-Bottom);Ash (Coal-Fly);Asbestos (Non-Friable);Construction & Demolition Debris;Sludge (Industrial);Asbestos (Friable);Biosolids;MSW (Residential/Institutional & Commercial),9-1462-00001/00006,08/09/2017,08/08/2027,"10860 Olean Road
+Chaffee, NY 14030-9799
+(42.583073, -78.487123)"
+James Services,3006 Hickox Road,,Eden,NY,14075,Erie,9,7169923800,James E. Burdick,Private,Landfill - land clearing debris,[15D28],Yes,182274,4733860,4.2 - Utilization of GIS and existing spatial data,,15D28,08/07/1996,,"3006 Hickox Road
+Eden, NY 14075
+(42.692561, -78.877765)"
+Orchard Park Yard Waste Compost,6909 Milestrip Road,,Orchard Park,NY,14127,Erie,9,7166626066,Town of Orchard Park,Municipal,Landfill - land clearing debris,[15D47],Yes,194781,4743987,4.3 - Utilization of Digital Orthophoto Quads,,15D47,10/09/2002,,"6909 Milestrip Road
+Orchard Park, NY 14127
+(42.789063, -78.732211)"
+NRG Huntley Landfill,3500 River Road,,Tonawanda,NY,14150,Erie,9,7168793876,Huntley Power LLC,Private,Landfill - industrial waste monofill - permit,[15N24],Yes,179570,4767036,4.2 - Utilization of GIS and existing spatial data,Ash (Coal-Fly);Ash (Coal-Bottom),9-1464-00089/00002,11/03/2016,01/03/2023,"3500 River Road
+Tonawanda, NY 14150
+(42.970813, -78.927581)"
+Elizabethtown LCD Landfill,Bronson Way,,Elizabethtown,NY,12932,Essex,5,5188736555,Town of Elizbethtown,Municipal,Landfill - land clearing debris,[16D15],Yes,609926,4898218,1 - No accuracy stated,Land Clearing Debris,16D15,11/09/2012,,
+Glomann LCD Landfill,29 Glomann Road,,Keeseville,NY,12944,Essex,5,5188345037,John Glomann,Private,Landfill - land clearing debris,[16D10],Yes,618821,4924202,4.3 - Utilization of Digital Orthophoto Quads,Land Clearing Debris,16D10,05/09/2005,,"29 Glomann Road
+Keeseville, NY 12944
+(44.460497, -73.5066)"
+North Elba C&D Landfill,74 Recycle Circle Lane,,Lake Placid,NY,12946,Essex,5,5185232940,Town of North Elba,Municipal,Landfill - C&DD - permit,[16LC0001],Yes,582609,4902346,,Construction & Demolition Debris,5-1540-00136/00003,03/16/2020,09/02/2025,"74 Recycle Circle Lane
+Lake Placid, NY 12946
+(44.271383, -73.967485)"
+Minerva LCD Lf,County Route 37,,Minerva,NY,12851,Essex,5,5182512869,Town of Minerva,Municipal,Landfill - land clearing debris,[16D06],Yes,584831,4850223,,,16D06,07/23/1998,,
+Cheever Pit (Reale) LCD LF,NYS Route 9N,Mile Marker 1228,Moriah,NY,12960,Essex,5,5185856782,Anthony Reale,Private,Landfill - land clearing debris,[16D13],Yes,623349,4857770,1 - No accuracy stated,,16D13,05/18/2011,,
+Newcomb LCD Lf,69 Hudson River Road,,Newcomb,NY,12852,Essex,5,5185823131,Town of Newcomb,Municipal,Landfill - land clearing debris,[16D08],Yes,569531,4868023,,,16D08,,,"69 Hudson River Road
+Newcomb, NY 12852
+(43.96227, -74.134467)"
+Green Valley LCD Landfill,1341 State Route 3,,Saranac Lake,NY,12983,Essex,5,5188911940,Carolyn Trudeau,Private,Landfill - land clearing debris,[16D04],Yes,573041,4915059,,Land Clearing Debris,16D04,05/21/1997,,"1341 State Route 3
+Saranac Lake, NY 12983
+(44.384778, -74.082277)"
+International Paper Ticonderoga Mill Landfill,568 Shore Airport Road,,Ticonderoga,NY,12883,Essex,5,5185855300,International Paper Company,Private,Landfill - industrial waste monofill - permit,[16N18],Yes,627916,4860163,,Sludge (Paper mill),5-1548-00008/00005,03/01/2018,02/29/2028,"568 Shore Airport Road
+Ticonderoga, NY 12883
+(43.889211, -73.405758)"
+West's Mabel's Sand Pit LCD Landfill,243 Reber Road,,Willsboro,NY,12996,Essex,5,5185932148,Douglas & Beulah West,Private,Landfill - land clearing debris,[16D14],Yes,621410,4908651,1 - No accuracy stated,Land Clearing Debris,16D14,03/12/2012,,"243 Reber Road
+Willsboro, NY 12996
+(44.322563, -73.478116)"
+Franklin County Regional Landfill,828 County Route 20,,Constable,NY,12926,Franklin,5,5184838270,County of Franklin SWMA,County,Landfill - MSW - permit,[17LS0001],Yes,552124,4980020,,MSW (Residential/Institutional & Commercial);Construction & Demolition Debris;Sewage Treatment Plant Sludge;Asbestos (Friable & Non-Friable),5-1699-00003/00005,01/28/2019,01/28/2024,"828 County Route 20
+Constable, NY 12926
+(44.974465, -74.343777)"
+Titus Mountain Family Ski Center LLC LCD Landfill,215 Johnson Road,P.O. Box 390,Malone,NY,12953,Franklin,5,5184833740,Titus Mountain Sand and Gravel LLC,Private,Landfill - land clearing debris,[17D06],Yes,560650,4957116,,Land Clearing Debris;Brick;Concrete;Soil (Clean);Asphalt,17D06,07/15/2008,,"215 Johnson Road
+Malone, NY 12953
+(44.766833, -74.233127)"
+Fulton County Landfill,847 Mud Road,,Johnstown,NY,12095,Fulton,5,5187365501,Fulton County,County,Landfill - MSW - permit,[18S20],Yes,543214,4761865,1 - No accuracy stated,MSW (Residential/Institutional & Commercial);Commingled Paper & Containers;Asbestos (Friable);Waste Tires;Construction & Demolition Debris;Industrial;Sewage Treatment Plant Sludge;Yard Waste;Sludge (Industrial);Sludge (Paper mill);Petroleum Contaminated Soil,5-1728-00005/00003,02/15/2017,02/14/2027,
+Fulton County Landfill,847 Mud Road,,Johnstown,NY,12095,Fulton,5,5187365501,Fulton County,County,Landfill gas recovery,[18F],Yes,543214,4761865,1 - No accuracy stated,,5-1728-00005/00003,02/15/2017,02/14/2027,
+Bovee Excavating,323 County Road 113,,Northville,NY,12134,Fulton,5,5188634521,Mr. Kim Bovee,Private,Landfill - land clearing debris,[18D06],Yes,569400,4784608,,Land Clearing Debris,18D06,03/09/2005,,
+Northampton Land Clearing Debris Landfill,Prospect Hill Cemetery,West Prospect St,Northville,NY,12134,Fulton,5,5188634040,Town of Northampton,Municipal,Landfill - land clearing debris,[18D07],Yes,567009,4787114,4 - GIS Assisted,Wood (Brush/ Branches/ Trees/ Stumps),18D07,06/05/2015,,
+US Gypsum,2844 Judge Road,,Oakfield,NY,14125,Genesee,8,5853445000,US Gypsum Company,Private,Landfill - industrial waste monofill - permit,[19N01],Yes,232189,4773736,,,8-1838-00007/00013,06/10/2014,06/09/2024,"2844 Judge Road
+Oakfield, NY 14125
+(43.073636, -78.29349)"
+Belgian Trucking & Excavating LLC,County Route 13,(1/4 mile west of 878 County Route 13),Lexington,NY,12468,Greene,4,5188213620,Floyd Dart,Private,Landfill - land clearing debris,[20D12],Yes,554260,4678605,4.1 - Address Matching,Wood (Brush/ Branches/ Trees/ Stumps),20D12,03/17/2017,,
+Arietta Sand Pit Land Clearing Debris Landfill,139 Old Piseco Road,,Arietta,NY,12139,Hamilton,5,5185483415,Town of Arietta,Municipal,Landfill - land clearing debris,[21D02],Yes,539276,4810398,1 - No accuracy stated,Land Clearing Debris,21D02,05/19/1994,,
+Indian Lake Ski Hill Land Clearing Debris Landfill,Route 30,,Indian Lake,NY,12842,Hamilton,5,5189244060,Town of Indian Lake,Municipal,Landfill - land clearing debris,[21D06],Yes,558488,4849233,1 - No accuracy stated,,21D06,04/23/2001,,
+Inlet Land Clearing Debris Landfill,65 Limekiln Lake Road,,Inlet,NY,13360,Hamilton,5,3153574541,Town of Inlet,Municipal,Landfill - land clearing debris,[21D01],Yes,517198,4842344,1 - No accuracy stated,,21D01,,,"65 Limekiln Lake Road
+Inlet, NY 13360
+(43.735448, -74.787288)"
+Vogel Pit #1,Tamarack Road,,Lake Pleasant,NY,12108,Hamilton,5,5185485995,Donald Vogel,Private,Landfill - land clearing debris,[21D09],Yes,544997,4813288,,Land Clearing Debris,21D09,01/20/2006,,
+Hope LCD (No. 2) Landfill,NYS Route 30,,Northville,NY,12134,Hamilton,5,5188632801,Town of Hope,Municipal,Landfill - land clearing debris,[21D08],Yes,561381,4795350,1 - No accuracy stated,Land Clearing Debris,21D08,06/23/2003,,
+Wells TS and LCD LF,232 Griffin Road,,Wells,NY,12190,Hamilton,5,5189247912,Town of Wells,Municipal,Landfill - land clearing debris,[21D11],Yes,559211,4806968,,Construction & Demolition Debris;MSW (Residential/Institutional & Commercial),,,,"232 Griffin Road
+Wells, NY 12190
+(43.415122, -74.268713)"
+Poland Sand & Gravel Mine #2,NYS RTE 8,,Cold Brook,NY,13324,Herkimer,6,3158263755,Poland Realty; LLC,Private,Landfill - land clearing debris,[22D08],Yes,495751,4785550,4.3 - Utilization of Digital Orthophoto Quads,,22D08,12/03/2008,,
+Frankfort Land Clearing Debris Landfill,386 Gulf Road,,Frankfort,NY,13340,Herkimer,6,3157245461,Town of Frankfort,Municipal,Landfill - land clearing debris,[22D09],Yes,486983,4761943,4.2 - Utilization of GIS and existing spatial data,,22D09,01/14/2014,,"386 Gulf Road
+Frankfort, NY 13340
+(43.010229, -75.159376)"
+Webb LCD Landfill,Bisby Road,,Old Forge,NY,13420,Herkimer,6,3153693412,Town of Webb,,Landfill - land clearing debris,[22D07],Yes,502541,4837526,1 - No accuracy stated,,22D07,05/11/2004,,
+Weakley Sand and Gravel Landfill,8968 North Main Street,,Poland,NY,13431,Herkimer,6,3158263893,Bruce Weakley,Private,Landfill - land clearing debris,[22D10],Yes,494656,4786221,,Wood (Brush/ Branches/ Trees/ Stumps);Wood (Trees/Stumps),22D10,,,"8968 North Main Street
+Poland, NY 13431
+(43.23029, -75.069147)"
+Alexandria (T) Land Clearing Landfill,Barn Settlement Road,,Alexandria Bay,NY,13607,Jefferson,6,3154829519,Town of Alexandria,Municipal,Landfill - land clearing debris,[23D22],Yes,429802,4910628,4.1 - Address Matching,,23D22,04/03/1995,,
+Black River Tree Removal #2 LCD,29807 Andrews Rd.,,Black River,NY,13612,Jefferson,6,3157734509,Tim Percy,Private,Landfill - land clearing debris,[23D30],Yes,437756,4870551,4.1 - Address Matching,Land Clearing Debris,23D30,07/28/2008,,"29807 Andrews Rd.
+Black River, NY 13612
+(43.984954, -75.775976)"
+Black River Tree Removal LCD,29807 Andrews Road,,Black River,NY,13612,Jefferson,6,3157734509,Tim Percy,Private,Landfill - land clearing debris,[23D24],Yes,437655,4870556,3.7 - Sportsman Hand-Held Unit (w/o Selective Availability),Yard Waste,23D24,04/01/2004,,"29807 Andrews Road
+Black River, NY 13612
+(43.984954, -75.775976)"
+Clayton LCD,41591 County Route 4,,Clayton,NY,13624,Jefferson,6,3156862557,Town of Clayton,Municipal,Landfill - land clearing debris,[23D25],Yes,407318,4893710,,Land Clearing Debris,23D25,09/01/2004,,
+Vespa Sand & Gravel LCD,Cemetary Road,,Felts Mills,NY,13638,Jefferson,6,3157886330,John Vespa Inc.,Private,Landfill - land clearing debris,[23D31],Yes,438897,4873319,4.1 - Address Matching,Land Clearing Debris,23D31,08/16/2008,,
+Williamson Services LCD,12988 North Croghan Road,,Natural Bridge,NY,13665,Jefferson,6,3156444000,Williamson Services LLC,Private,Landfill - land clearing debris,[23D32],Yes,459461,4878669,4.3 - Utilization of Digital Orthophoto Quads,Wood (Trees/Stumps),23D32,08/25/2008,,"12988 North Croghan Road
+Natural Bridge, NY 13665
+(44.064367, -75.492081)"
+Orleans LCD,East Line Tanners Rd; County Route 3,,Orleans,NY,13656,Jefferson,6,3156589920,Town of Orleans,Municipal,Landfill - land clearing debris,[23D23],Yes,440015,4884452,,Land Clearing Debris,23D23,04/05/2000,,
+Development Authority of the North Country Landfill,23400 State Route 177,,Rodman,NY,13682,Jefferson,6,3156613230,Development Authority of the North Country,Municipal,Landfill - MSW - permit,[23LS0030],Yes,427302,4852830,4.1 - Address Matching,MSW (Residential/Institutional & Commercial);Construction & Demolition Debris;Asbestos (Friable & Non-Friable),6-2252-00007/00006,01/26/2018,01/25/2023,"23400 State Route 177
+Rodman, NY 13682
+(43.828508, -75.914884)"
+Hounsfield Land Clearing Landfill,Fawdrey Road,,Sackets Harbor,NY,13685,Jefferson,6,3157826380,Town of Hounsfield,Municipal,Landfill - land clearing debris,[23D21],Yes,413460,4863051,4.1 - Address Matching,,23D21,01/17/1995,,
+Vespa Sand & Stone Rte 126 LCD,Rte 126,,Watertown,NY,13601,Jefferson,6,3157886330,John Vespa Inc.,Private,Landfill - land clearing debris,[23D33],Yes,430457,4867382,1 - No accuracy stated,Wood (Brush/ Branches/ Trees/ Stumps);Concrete;Asphalt;Soil (Clean),23D33,06/14/2010,,
+Greig Land Clearing Landfill,Brantingham Road,,Brantingham,NY,13312,Lewis,6,3153485554,Town of Greig,Municipal,Landfill - land clearing debris,[25D02],Yes,476457,4837337,4.1 - Address Matching,,25D02,04/21/2000,,
+Madison County West Side Extension LF,6663 Buyea Road,,Canastota,NY,13163,Madison,7,3153618408,Madison County  DSWS,County,Landfill - MSW - permit,[27LS0016],Yes,442587,4765079,4.2 - Utilization of GIS and existing spatial data,Treated RMW;MSW (Residential/Institutional & Commercial);Construction & Demolition Debris;Foundry Sand;Petroleum Contaminated Soil;Sewage Treatment Plant Sludge,7-2538-00011/00005,01/29/2018,11/01/2027,"6663 Buyea Road
+Canastota, NY 13163
+(43.034912, -75.702821)"
+High Acres Western Expansion Landfill,425 Perinton Parkway,,Fairport,NY,14450,Monroe,8,5852236132,Waste Management of NY LLC,Private,Landfill - MSW - permit,[28S32],Yes,305919,4773094,,Treated RMW;MSW (Residential/Institutional & Commercial);Construction & Demolition Debris;Asbestos (Friable);Industrial;Ash MSW Energy Recovery Fly;Sewage Treatment Plant Sludge;Petroleum Contaminated Soil,8-9908-00162/00032,10/04/2013,07/08/2023,"425 Perinton Parkway
+Fairport, NY 14450
+(43.088575, -77.380984)"
+Mill Seat SLF,303 Brew Road,,Riga,NY,14416,Monroe,8,5854943000,Monroe County,County,Landfill - MSW - permit,[28S31],Yes,260800,4771100,1 - No accuracy stated,Asbestos (Friable);MSW (Residential/Institutional & Commercial);Ash (Coal-Bottom);Ash MSW Energy Recovery Bottom;Construction & Demolition Debris;Industrial,8-2648-00014/00001,08/19/2016,07/31/2021,"303 Brew Road
+Riga, NY 14416
+(43.060206, -77.932529)"
+Brighton (T) C&D Landfill,444 Browncroft Blvd,,Rochester,NY,14610,Monroe,8,5852889205,Town of Brighton,Municipal,Landfill - land clearing debris,[28D07],Yes,293866,4781457,,,28D07,09/22/1994,,"444 Browncroft Blvd
+Rochester, NY 14610
+(43.15763, -77.535636)"
+Modern Landfill; Inc.,1445 Pletcher Road,,Model City,NY,14107,Niagara,9,7167548226,Modern Corporation,Private,Landfill - MSW - permit,[32S30],Yes,176826,4792068,4.2 - Utilization of GIS and existing spatial data,Construction & Demolition Debris;Asbestos (Non-Friable);Non-petroleum Contaminated Soil;Sludge (Industrial);Asbestos (Friable);MSW (Residential/Institutional & Commercial),9-2924-00016/00043,10/17/2017,10/28/2023,"1445 Pletcher Road
+Model City, NY 14107
+(43.211376, -78.979848)"
+Allied Waste Niagara Falls Landfill,Allied/BFI Waste Systems of North America; Inc.,5600 Niagara Falls Boulevard,Niagara Falls,NY,14304,Niagara,9,7162853344,Allied/BFI Waste Systems of North America; Inc.,Private,Landfill - MSW - permit,[32S11],Yes,175230,4779955,4.2 - Utilization of GIS and existing spatial data,Ash (Coal-Bottom);Ash (Coal-Fly);Ash MSW Energy Recovery Combined;Ash (WWTP Sludge);Asbestos (Non-Friable);Construction & Demolition Debris;Sludge (Industrial);Asbestos (Friable);Waste Tires;MSW (Residential/Institutional & Commercial),9-2911-00119/00005,04/16/2013,11/30/2015,
+Somerset Operating Station,7725 Lake Road,,Somerset,NY,14012-9600,Niagara,9,7167959501,AES Somerset LLC,Private,Landfill - industrial waste monofill - permit,[32N34],Yes,208545,4806299,,,,,,"7725 Lake Road
+Somerset, NY 14012-9600
+(43.348951, -78.609263)"
+Ava Landfill,7044 NYS Route 294,,Boonville,NY,13309,Oneida,6,3153584068,Oneida Herkimer SWMA,Municipal,Landfill - MSW - permit,[33LS0008],Yes,466441,4811194,1.1 - Obtained from original submission and unverified process,Construction & Demolition Debris;MSW (Residential/Institutional & Commercial);Industrial;Sewage Treatment Plant Sludge;Asbestos (Friable & Non-Friable),6-3024-00009/00001,03/19/2019,03/18/2024,
+Boonville Transfer Site,13680 State Route 12,,Boonville,NY,13309,Oneida,6,3159432055,Village of Boonville,Municipal,Landfill - land clearing debris,[33D17],Yes,473640,4816223,,Wood (Brush/ Branches/ Trees/ Stumps);Wood (Trees/Stumps),33D17,09/08/2000,,"13680 State Route 12
+Boonville, NY 13309
+(43.497238, -75.326756)"
+Burdick Land Clearing Debris Landfill,Route 28,,Forestport,NY,13338,Oneida,6,3157963690,Chad Burdick,Private,Landfill - land clearing debris,[33D24],Yes,484799,4812530,1 - No accuracy stated,,33D24,,,
+Lee Center (T) Land Clearing,4771 Lee Center Taberg Rd/Hardy Road,,Lee Center,NY,13363,Oneida,6,3153363438,Town of Lee Center,Municipal,Landfill - land clearing debris,[33D22],Yes,453484,4794706,1 - No accuracy stated,,33D22,06/06/2013,,"4771 Lee Center Taberg Rd/Hardy Road
+Lee Center, NY 13363
+(43.310404, -75.545408)"
+Mohawk Valley Materials Inc. - 7166 E. Dominick St.,7166 E. Dominick Street,,Rome,NY,13340,Oneida,6,3152716216,Joe Rutkowski,Private,Landfill - land clearing debris,[33D21],Yes,465939,4783647,,Land Clearing Debris,33D21,,,"7166 E. Dominick Street
+Rome, NY 13340
+(43.204943, -75.413385)"
+Oneida-Herkimer Tannery Road Site,Tannery Road,,Rome (C),NY,13440,Oneida,6,3153391990,Oneida Herkimer SWMA,State,Landfill - land clearing debris,[33D11],Yes,456973,4787207,4 - GIS Assisted,,33D11,07/15/1999,,
+Oneida-Herkimer Solid Waste Authority - Leland Ave. Ext.,80 Leland Avenue,,Utica,NY,13502,Oneida,6,3157380417,Oneida Herkimer SWA,Municipal,Landfill - land clearing debris,[33D19],Yes,484432,4772023,,,33D19,10/21/2002,,"80 Leland Avenue
+Utica, NY 13502
+(43.106545, -75.212374)"
+Vernon (T) LCD LANDFILL,5650 Marble Road,Vernon Center,Vernon,NY,13477,Oneida,6,3157947778,Town of Vernon,Municipal,Landfill - land clearing debris,[33D13],Yes,457940,4763800,4.3 - Utilization of Digital Orthophoto Quads,,33D13,10/20/2009,,"5650 Marble Road
+Vernon, NY 13477
+(43.027434, -75.515427)"
+Skaneateles Landclearing Debris Landfill,1676 Old Seneca Turnpike,,Skaneateles,NY,13152,Onondaga,7,3156734190,Town of Skaneateles,Municipal,Landfill - land clearing debris,[34D07],Yes,386107,4759608,,Wood (Brush/ Branches/ Trees/ Stumps);Wood (Trees/Stumps),34D07,,,"1676 Old Seneca Turnpike
+Skaneateles, NY 13152
+(42.980309, -76.389966)"
+Honeywell/Camillus Bed #15 C&D,6051 Belle Isle Road,,Syracuse,NY,13209,Onondaga,7,3154884846,Honeywell International; Inc.,Private,Landfill - C&DD - permit,[34LC0029],Yes,398379,4768459,4.3 - Utilization of Digital Orthophoto Quads,Construction & Demolition Debris,,,,"6051 Belle Isle Road
+Syracuse, NY 13209
+(43.063243, -76.248712)"
+Ontario County Sanitary Landfill,1879 Route 5&20,,Stanley,NY,14561,Ontario,8,5855264420,Ontario County,County,Landfill - MSW - permit,[35S11],Yes,330097,4746921,4.3 - Utilization of Digital Orthophoto Quads,MSW (Residential/Institutional & Commercial);Construction & Demolition Debris;Industrial;Sewage Treatment Plant Sludge;Asbestos (Friable & Non-Friable),8-3244-00004/00001,07/22/2014,01/20/2025,"1879 Route 5&20
+Stanley, NY 14561
+(42.860757, -77.081086)"
+Van Voorhis Farm; Inc,432 Fishers Road,,Victor,NY,14453,Ontario,8,5859245506,Jack Van Voorhis,Private,Landfill - land clearing debris,[35D12],Yes,298350,4765250,2 - Manual Measurements,Land Clearing Debris,,,,
+Victor Insulators Inc,280 Maple Street,,Victor,NY,14564,Ontario,8,5859242127,Victor Insulators Inc,Private,Landfill - industrial waste monofill - permit,[35N01],Yes,303000,4760900,,,8-3248-00030/02001,07/11/2013,12/31/2023,"280 Maple Street
+Victor, NY 14564
+(42.975959, -77.411167)"
+Danskammer Landfill(Mercia),994 River Road,Danskammer Generation Station,Newburgh,NY,12550,Orange,3,8455639116,Helios Power Capital LLC,Private,Landfill - industrial waste monofill - permit,[36N01],Yes,586321,4602888,,Ash (Coal-Fly);Ash (Coal-Bottom),3-3346-00011/00018,12/05/2018,11/13/2021,"994 River Road
+Newburgh, NY 12550
+(41.571641, -73.976941)"
+Roosevelt Pit,273 Roosevelt Road,,Bernhards Bay,NY,13042,Oswego,7,3156758264,Town of Constantia,,Landfill - land clearing debris,[38D06],Yes,425720,4792277,,Wood (Brush/ Branches/ Trees/ Stumps),38D06,05/06/2016,,"273 Roosevelt Road
+Bernhards Bay, NY 13042
+(43.279641, -75.904708)"
+Bristol Hill SLF,3125 State Route 3,,Fulton,NY,13069,Oswego,7,3155919200,Oswego County DSW,County,Landfill - MSW - permit,[38S14],Yes,391402,4800263,4.2 - Utilization of GIS and existing spatial data,Ash MSW Energy Recovery Combined;MSW (Residential/Institutional & Commercial);Asbestos (Friable & Non-Friable),7-3558-00012/00013,04/04/2017,04/03/2027,"3125 State Route 3
+Fulton, NY 13069
+(43.339737, -76.344947)"
+Dunn C&D LF,209 Partition Street Extension,,Rensselaer,NY,12144,Rensselaer,4,5186506106,SA Dunn & Company LLC,Private,Landfill - C&DD - permit,[42D20],Yes,604450,4722400,,,4-3899-00006/00001,07/20/2012,07/19/2022,"209 Partition Street Extension
+Rensselaer, NY 12144
+(42.643602, -73.728871)"
+Dan Arnold LCD Landfill,921 Whitesides Rd,,Broadalbin,NY,12025,Saratoga,5,5188835733,Dan Arnold,Private,Landfill - land clearing debris,[46D30],Yes,572900,4768177,1 - No accuracy stated,Land Clearing Debris,46D30,06/16/2005,,"921 Whitesides Rd
+Broadalbin, NY 12025
+(43.062428, -74.105467)"
+Kahn Property LCD Landfill,269 Lake Hill Rd,,Burnt Hills,NY,12027,Saratoga,5,5183999374,Andrew Kahn,Private,Landfill - land clearing debris,[46D33],Yes,587956,4751401,1 - No accuracy stated,Land Clearing Debris,46D33,09/12/2012,,"269 Lake Hill Rd
+Burnt Hills, NY 12027
+(42.910277, -73.92276)"
+Emery Land Clearing Debris Landfill,18 Emery Lane,,Corinth,NY,12822,Saratoga,5,5186546401,Ira J Emery,Private,Landfill - land clearing debris,[46D17],Yes,593425,4786839,,Land Clearing Debris,46D17,10/22/1999,,"18 Emery Lane
+Corinth, NY 12822
+(43.226914, -73.847197)"
+Green Ridge RDF,424 Peters Road,,Gansevoort,NY,12831,Saratoga,5,5186362141,Finch Waste Co LLC,Private,Landfill - MSW - permit,[46LS0025],Yes,613263,4784286,,,5-4146-00018/00010,03/22/2021,03/21/2031,"424 Peters Road
+Gansevoort, NY 12831
+(43.190283, -73.588493)"
+Munter Pit Land Clearing Debris Landfill,881 Murray Road,,Middle Grove,NY,12850,Saratoga,5,5185846174,Munter Enterprises,Private,Landfill - land clearing debris,[46D22],Yes,588905,4769666,,Land Clearing Debris,46D22,05/14/2002,,"881 Murray Road
+Middle Grove, NY 12850
+(43.074247, -73.907366)"
+Groff Land Clearing Debris Landfill,82 Brook Road,,Saratoga Springs,NY,12866,Saratoga,5,5185840586,Howard H. Jr & Cynthia P. Groff,Private,Landfill - land clearing debris,[46D06],Yes,595327,4770849,,Land Clearing Debris,46D06,05/09/1995,,"82 Brook Road
+Saratoga Springs, NY 12866
+(43.084924, -73.828561)"
+Route 29 Pit,NYS Route 29,,Saratoga Springs,NY,12866,Saratoga,5,5188852235,Saratoga County Dept. of Public Works,County,Landfill - land clearing debris,[46D29],Yes,607824,4771928,,Land Clearing Debris,46D29,04/05/2004,,
+Welcome Stock Farm,285 West River Road,,Schuylerville,NY,12871,Saratoga,5,5184246770,Welcome Stock Farm LLC,Private,Landfill - land clearing debris,[46D32],Yes,613886,4778072,,Land Clearing Debris,46D32,05/14/2009,,"285 West River Road
+Schuylerville, NY 12871
+(43.145518, -73.600059)"
+Riberdy Contracting Corp,27 Button Road,,Waterford,NY,12188,Saratoga,5,5182376917,Francis E. Riberdy,Private,Landfill - land clearing debris,[46D31],Yes,606189,4743467,,Land Clearing Debris,46D31,06/23/2005,,"27 Button Road
+Waterford, NY 12188
+(42.83621, -73.701635)"
+Frost Tree & Brush,286 Tidball Road,,Duanesburg,NY,12306,Schenectady,4,,Robert Frost,Private,Landfill - land clearing debris,[47D17],Yes,572069,4739249,1 - No accuracy stated,,47D17,,,"286 Tidball Road
+Duanesburg, NY 12306
+(42.802036, -74.120835)"
+Seneca Meadows LF,1786 Salcman Road,,Waterloo,NY,13165,Seneca,8,3155395624,Seneca Meadows Inc,Private,Landfill - MSW - permit,[50S08],Yes,349327,4754187,,Ash MSW Energy Recovery Fly;Construction & Demolition Debris;Non-petroleum Contaminated Soil;Sewage Treatment Plant Sludge;Industrial;MSW (Residential/Institutional & Commercial);Waste Tires;Treated RMW;Grit & Screenings;Asbestos (Friable & Non-Friable),8-4532-00023/00001,10/31/2017,12/31/2025,"1786 Salcman Road
+Waterloo, NY 13165
+(42.915265, -76.843801)"
+Bath Sanitary Landfill,5632 Turnpike Road,,Bath,NY,14810,Steuben,8,6077763191,Steuben County,County,Landfill - MSW - permit,[51LS0025],Yes,303935,4687722,1 - No accuracy stated,Asbestos (Friable);Construction & Demolition Debris;Non-Radioactive;Commingled Paper & Containers;Industrial;Petroleum Contaminated Soil;MSW (Residential/Institutional & Commercial),8-4624-00031/00010,10/10/2019,02/12/2024,"5632 Turnpike Road
+Bath, NY 14810
+(42.324654, -77.383997)"
+Erwin Gravel Pit,Addison Road,,Painted Post,NY,14870,Steuben,8,6079627021,Town of Erwin,Municipal,Landfill - land clearing debris,[51D04],Yes,318596,4664132,1 - No accuracy stated,Land Clearing Debris,51D04,,,
+Hakes C&D Disposal Inc,4376 Manning Ridge Road,,Painted Post,NY,14870,Steuben,8,6079376044,Russell Anderson,Private,Landfill - C&DD - permit,[51LC0300],Yes,325746,4675038,4.1 - Address Matching,,8-6430-00010/00001,12/19/2019,11/10/2023,"4376 Manning Ridge Road
+Painted Post, NY 14870
+(42.211604, -77.110996)"
+Morristown LCD,136 County Route #2,,Brier Hill,NY,13614,St. Lawrence,6,3153756563,Town of Morristown,Municipal,Landfill - land clearing debris,[45D03],Yes,448267,4931609,4.2 - Utilization of GIS and existing spatial data,Wood (Trees/Stumps),45D03,04/23/2004,,"136 County Route #2
+Brier Hill, NY 13614
+(44.53584, -75.65052)"
+Canton LCD,731 State Highway 310,,Canton,NY,13617,St. Lawrence,6,3153223643,Terry Billings,,Landfill - land clearing debris,[45D16],Yes,488276,4943497,,Land Clearing Debris,45D16,05/11/2015,,"731 State Highway 310
+Canton, NY 13617
+(44.642807, -75.148045)"
+Hammond LCD,Hyde Road,,Hammond,NY,13646,St. Lawrence,6,3153245611,Town of Hammond,Municipal,Landfill - land clearing debris,[45D08],Yes,444877,4923497,1 - No accuracy stated,,45D08,09/22/2011,,
+Hermon LCD,125 Washington Street,,Hermon,NY,13652,St. Lawrence,6,3153472050,Town of Hermon,Municipal,Landfill - land clearing debris,[45D11],Yes,481884,4924330,,,45D11,05/06/2014,,"125 Washington Street
+Hermon, NY 13652
+(44.470441, -75.227969)"
+Louisville LCD,County Route 39,,Massena,NY,13662,St. Lawrence,6,3157695651,Town of Louisville,Municipal,Landfill - land clearing debris,[45D15],Yes,500656,4968435,,Land Clearing Debris,45D15,06/27/2013,,
+Norfolk LCD,Town of Norfolk,Joy Road,Norfolk,NY,13667,St. Lawrence,6,3153844911,Town of Norfolk,Municipal,Landfill - land clearing debris,[45D04],Yes,503995,4963185,4.3 - Utilization of Digital Orthophoto Quads,,45D04,10/06/2005,,
+Lawrence LCD,McAuslin Road,,North Lawrence,NY,12967,St. Lawrence,6,3153894487,Town of Lawrence,Municipal,Landfill - land clearing debris,[45D06],Yes,528289,4961068,4.3 - Utilization of Digital Orthophoto Quads,Land Clearing Debris,45D06,05/06/2009,,
+Fiacco LCD,69 South Main Street,,Norwood,NY,13668,St. Lawrence,6,3153532041,Tom Fiacco Jr.,Private,Landfill - land clearing debris,[45D18],Yes,500692,4954457,4.1 - Address Matching,Land Clearing Debris,45D17,08/10/2015,,"69 South Main Street
+Norwood, NY 13668
+(44.743098, -74.991926)"
+Norwood LCD,11 Bernard Ave,,Norwood,NY,13668,St. Lawrence,6,3153536667,Village of Norwood,Municipal,Landfill - land clearing debris,[45D05],Yes,502062,4956837,4.3 - Utilization of Digital Orthophoto Quads,,45D05,10/05/2006,,"11 Bernard Ave
+Norwood, NY 13668
+(44.74944, -74.997631)"
+Ogdensburg LCD,Outer Champlain Street,,Ogdensburg,NY,13669,St. Lawrence,6,3153932300,City of Ogdensburg,Municipal,Landfill - land clearing debris,[45D09],Yes,461600,4943800,,,45D09,01/10/2013,,
+Parishville LCD,P.O. Box 155,,Parishville,NY,13672,St. Lawrence,6,,Town of Parishville,Municipal,Landfill - land clearing debris,[45D02],Yes,514769,4941718,4.1 - Address Matching,,45D02,01/12/2007,,
+Stockholm LCD,Reed Road,,Winthrop,NY,13697,St. Lawrence,6,3153894684,Town of Stockholm,Municipal,Landfill - land clearing debris,[45D01],Yes,514089,4954575,4.1 - Address Matching,Wood (Trees/Stumps);Wood (Brush/ Branches/ Trees/ Stumps);Land Clearing Debris,45D01,06/03/2003,,
+Blydenburgh Road Landfill Complex,440 Blydenburgh Road,,Hauppauge,NY,11787,Suffolk,1,6314366162,Islip Resource Recovery Agency,Municipal,Landfill - LI - inside the deep flow recharge - permit,[52D46],Yes,653394,4519711,4.2 - Utilization of GIS and existing spatial data,Clean Fill,1-4728-00628/00017,12/20/2017,12/19/2022,"440 Blydenburgh Road
+Hauppauge, NY 11787
+(40.813895, -73.180602)"
+110 Sand Company Clean Fill Disposal Site,136 Spagnolli Road,,Melville,NY,11747,Suffolk,1,6316942822,Broad Hollow Estates,Private,Landfill - LI - inside the deep flow recharge - permit,[52LR0351],Yes,631772,4513853,4.2 - Utilization of GIS and existing spatial data,Clean Fill;Construction & Demolition Debris,1-4726-00490/00010,05/14/2021,05/13/2026,"136 Spagnolli Road
+Melville, NY 11747
+(40.761684, -73.434127)"
+Port Jefferson Village Clean Fill,Old Homestead Road,,Port Jefferson,NY,11777,Suffolk,1,6314734733,Village of Port Jefferson,Municipal,Landfill - Long Island - cleanfill < 2 acres,[52D43],Yes,664006,4536339,4.2 - Utilization of GIS and existing spatial data,Land Clearing Debris;Brick;Concrete;Soil (Clean);Wood (Brush/ Branches/ Trees/ Stumps);Wood (Trees/Stumps),1-4722-00871/00001,12/12/2012,12/11/2022,
+Babylon Southern Ashfill,Edison & Gleam St.,,West Babylon,NY,11704,Suffolk,1,6314227640,Town of Babylon,Municipal,Landfill - Long Island,[52A01],Yes,636645,4510592,4.2 - Utilization of GIS and existing spatial data,Ash MSW Energy Recovery Combined,1-4720-00778/00014,04/02/2018,04/01/2023,
+Brookhaven Waste Management Facility,350 Horseblock Road,,Yaphank,NY,11719,Suffolk,1,6312868551,Town of Brookhaven,Municipal,Landfill - LI - outside the deep flow recharge - permit,[52LN0226],Yes,675100,4518600,4.2 - Utilization of GIS and existing spatial data,Ash (WWTP Sludge);Ash MSW Energy Recovery Combined;Construction & Demolition Debris;Sewage Treatment Plant Sludge;Downtime waste;Bypass Waste (Unprocessible/Processible),1-4722-00030/00019,07/12/2021,07/11/2026,
+Old Reservoir Site,Reservoir Hill Road,,Candor,NY,13743,Tioga,7,6076597966,Village of Candor,Municipal,Landfill - land clearing debris,[54D02],Yes,390900,4674200,1 - No accuracy stated,Wood (Brush/ Branches/ Trees/ Stumps);Leaves & Grass,54D02,04/19/2012,,
+Angelo Sand and Gravel,310 Hillview Rd.,,Spencer,NY,14883,Tioga,7,6072738139,Landstrom Gravel Co.; Inc.,Private,Landfill - land clearing debris,[54D01],Yes,377483,4681738,1 - No accuracy stated,Land Clearing Debris,54D01,08/22/1997,,"310 Hillview Rd.
+Spencer, NY 14883
+(42.282244, -76.498638)"
+American Tree Company,1343 Bay Road,,Lake George,NY,12845,Warren,5,5187614636,Daniel Stranahan,Private,Landfill - land clearing debris,[57W03],Yes,609300,4806747,4.3 - Utilization of Digital Orthophoto Quads,Land Clearing Debris,57W03,07/07/2003,,"1343 Bay Road
+Lake George, NY 12845
+(43.396187, -73.647259)"
+Lake George C&D Debris Landfill,70 Transfer Road,,Lake George,NY,12845,Warren,5,5186682963,Town of Lake George,Municipal,Landfill - C&DD - permit,[57LC0019],Yes,603200,4806032,,Construction & Demolition Debris,5-5222-00140/00004,09/29/2021,10/02/2026,"70 Transfer Road
+Lake George, NY 12845
+(43.400276, -73.728683)"
+Lake George Sand & Gravel LCD,70 Transfer Road,,Lake George,NY,12845,Warren,5,5187984151,Cutting Edge Group LLC,Private,Landfill - land clearing debris,[57D13],Yes,603017,4805828,,Land Clearing Debris,57D13,10/23/2002,,"70 Transfer Road
+Lake George, NY 12845
+(43.400276, -73.728683)"
+Lake Luzerne Land Clearing Debris Landfill,119 Towner Road,(behind former Landfill area),Lake Luzerne,NY,12846,Warren,5,5186962711,Town of Lake Luzerne,Municipal,Landfill - land clearing debris,[57D08],Yes,594891,4799325,4.2 - Utilization of GIS and existing spatial data,Land Clearing Debris,57D08,01/23/1996,,"119 Towner Road
+Lake Luzerne, NY 12846
+(43.340454, -73.822182)"
+Morin LCD Landfill,Oven Mountain Road,,North Creek,NY,12853,Warren,5,5182513595,Leon P Morin,Private,Landfill - land clearing debris,[57D14],Yes,582675,4831902,,Land Clearing Debris,57D14,04/02/2004,,
+Queensbury - Jenkinsville Rd Mine Site LCD,Jenkinsville Road,,Queensbury,NY,12804,Warren,5,5187618211,Town Of Queensbury,Municipal,Landfill - land clearing debris,[57D16],Yes,611740,4804847,1 - No accuracy stated,Land Clearing Debris,57D16,,,
+Tree Care by Stan Hunt LCD Landfill,53 Boulevard,,Queensbury,NY,12804,Warren,5,5187930804,Tree Care by Stan Hunt; Inc,Private,Landfill - land clearing debris,[57D17],Yes,613395,4796529,,,57D17,06/18/2007,,"53 Boulevard
+Queensbury, NY 12804
+(43.313458, -73.599924)"
+Thurman C&D Debris Landfill,Erving Baker Road,,Thurman,NY,12810,Warren,5,5186239649,Town of Thurman,Municipal,Landfill - C&DD - permit,[57D03],Yes,588232,4818224,,Construction & Demolition Debris,5-5238-00010-00002,04/05/2017,04/04/2022,
+Yole Pit (LCD Landfill),NYS Route 149,,Fort Ann,NY,12827,Washington,5,5187980674,Schermerhorn Sand & Gravel LLC,Private,Landfill - land clearing debris,[58D06],Yes,615732,4807118,1 - No accuracy stated,Land Clearing Debris,58D06,02/06/2003,,
+Easton Sand & Gravel,61 Hogsback Road,,Greenwich,NY,12834,Washington,5,5186953220,Paul Woolley,Private,Landfill - land clearing debris,[58D07],Yes,616672,4774220,,Land Clearing Debris,58D07,06/20/2005,,"61 Hogsback Road
+Greenwich, NY 12834
+(43.111192, -73.566089)"
+Moy Enterprises LCD Landfill,143 Becker Road,,Greenwich,NY,12834,Washington,5,5186929455,Brotherhood Farms,Private,Landfill - land clearing debris,[58D10],Yes,616989,4765985,4.3 - Utilization of Digital Orthophoto Quads,Land Clearing Debris,10D10,03/23/2010,,"143 Becker Road
+Greenwich, NY 12834
+(42.999388, -73.530955)"
+Williams Farm LCD Landfill,99 Wager Lane,,Schaghticoke,NY,12154,Washington,5,5184216273,Frank & Donna Williams,Private,Landfill - land clearing debris,[58D08],Yes,615040,4757668,,Land Clearing Debris,58D08,02/29/2008,,"99 Wager Lane
+Schaghticoke, NY 12154
+(42.96441, -73.585217)"
+Walt Scott Timber Service,2200 Brandt Road,,Lyons,NY,14489,Wayne,8,5852617262,Richard Rogers,Private,Landfill - land clearing debris,[59D03],Yes,334927,4772658,1 - No accuracy stated,,59D03,06/27/2011,,"2200 Brandt Road
+Lyons, NY 14489
+(43.089305, -77.029544)"
+Sprout Brook Ash Residue Disposal Facility,Old Albany Post Road,,Peekskill,NY,10601,Westchester,3,9146373000,Westchester County,County,Landfill - MSW - permit,[60S20],Yes,0,0,,,,,,
+Lockwood Ash Disp Site,Swarthout Road,,Dresden,NY,14441,Yates,8,,GMMM Lockwood LLC,Private,Landfill - industrial waste monofill - permit,[62N01],Yes,339524,4726685,,,8-5736-00005/00003,09/05/2008,09/04/2018,
