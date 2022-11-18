@@ -1,0 +1,48 @@
+,p_name,longitude,latitude,numb_turbines,avg_turbine_capacity,text
+46,unknown Wyoming County,-78.187935,42.740818,1.0,,Project Name: unknown Wyoming County<br>Number of Turbines: 1.0<br>Average Turbine Capacity: nan MW
+45,unknown Steuben County,-77.53366227272727,42.486563909090904,11.0,,Project Name: unknown Steuben County<br>Number of Turbines: 11.0<br>Average Turbine Capacity: nan MW
+44,unknown Oneida County,-75.44736900000001,42.975771,2.0,,Project Name: unknown Oneida County<br>Number of Turbines: 2.0<br>Average Turbine Capacity: nan MW
+43,unknown Niagara County,-78.493963,43.282899,1.0,,Project Name: unknown Niagara County<br>Number of Turbines: 1.0<br>Average Turbine Capacity: nan MW
+42,unknown Montgomery County,-74.510246,42.9051875,2.0,,Project Name: unknown Montgomery County<br>Number of Turbines: 2.0<br>Average Turbine Capacity: nan MW
+41,unknown Lewis County,-75.627747,43.791592,1.0,,Project Name: unknown Lewis County<br>Number of Turbines: 1.0<br>Average Turbine Capacity: nan MW
+40,unknown Kings County,-74.008804,40.663235,1.0,,Project Name: unknown Kings County<br>Number of Turbines: 1.0<br>Average Turbine Capacity: nan MW
+39,unknown Greene County,-74.043701,42.353592,1.0,,Project Name: unknown Greene County<br>Number of Turbines: 1.0<br>Average Turbine Capacity: nan MW
+38,unknown Genesee County,-78.40324,43.000551,1.0,,Project Name: unknown Genesee County<br>Number of Turbines: 1.0<br>Average Turbine Capacity: nan MW
+37,unknown Erie County,-78.930092,42.977398,2.0,100.0,Project Name: unknown Erie County<br>Number of Turbines: 2.0<br>Average Turbine Capacity: 100.0 MW
+36,unknown Chautauqua County,-79.11637,42.55933,1.0,,Project Name: unknown Chautauqua County<br>Number of Turbines: 1.0<br>Average Turbine Capacity: nan MW
+35,unknown Cayuga County,-76.582039,42.663563,1.0,,Project Name: unknown Cayuga County<br>Number of Turbines: 1.0<br>Average Turbine Capacity: nan MW
+34,unknown Broome County,-75.52374742857144,42.088703714285714,7.0,,Project Name: unknown Broome County<br>Number of Turbines: 7.0<br>Average Turbine Capacity: nan MW
+33,unknown Allegany County,-78.307854,42.519878,1.0,,Project Name: unknown Allegany County<br>Number of Turbines: 1.0<br>Average Turbine Capacity: nan MW
+32,Zotos,-76.9680505,42.8866965,2.0,1650.0,Project Name: Zotos<br>Number of Turbines: 2.0<br>Average Turbine Capacity: 1650.0 MW
+31,Wethersfield,-78.24533679999999,42.682781999999996,10.0,660.0,Project Name: Wethersfield<br>Number of Turbines: 10.0<br>Average Turbine Capacity: 660.0 MW
+30,Town of Richland,-76.036995,43.565189,1.0,100.0,Project Name: Town of Richland<br>Number of Turbines: 1.0<br>Average Turbine Capacity: 100.0 MW
+29,Steel Winds II,-78.861697,42.807241833333336,6.0,2500.0,Project Name: Steel Winds II<br>Number of Turbines: 6.0<br>Average Turbine Capacity: 2500.0 MW
+28,Steel Winds,-78.867636625,42.8179025,8.0,2500.0,Project Name: Steel Winds<br>Number of Turbines: 8.0<br>Average Turbine Capacity: 2500.0 MW
+27,Seneca Nation,-79.102692,42.580894,1.0,1500.0,Project Name: Seneca Nation<br>Number of Turbines: 1.0<br>Average Turbine Capacity: 1500.0 MW
+26,Roaring Brook Wind,-75.61710554999999,43.70754375,20.0,4031.25,Project Name: Roaring Brook Wind<br>Number of Turbines: 20.0<br>Average Turbine Capacity: 4031.25 MW
+25,Orangeville Wind,-78.24060375862068,42.746163603448274,47.241379310344826,1620.0,Project Name: Orangeville Wind<br>Number of Turbines: 47.241379310344826<br>Average Turbine Capacity: 1620.0 MW
+24,Noble Wethersfield,-78.26085490476191,42.62293007142857,84.0,1500.0,Project Name: Noble Wethersfield<br>Number of Turbines: 84.0<br>Average Turbine Capacity: 1500.0 MW
+23,Noble Ellenburg,-73.97373362962963,44.86983174074074,54.0,1500.0,Project Name: Noble Ellenburg<br>Number of Turbines: 54.0<br>Average Turbine Capacity: 1500.0 MW
+22,Noble Clinton,-73.99393073134327,44.921359835820894,67.0,1500.0,Project Name: Noble Clinton<br>Number of Turbines: 67.0<br>Average Turbine Capacity: 1500.0 MW
+21,Noble Chateaugay,-74.03575995774648,44.89893902816901,71.0,1500.0,Project Name: Noble Chateaugay<br>Number of Turbines: 71.0<br>Average Turbine Capacity: 1500.0 MW
+20,Noble Bliss,-78.25864031343284,42.5451171641791,67.0,1500.0,Project Name: Noble Bliss<br>Number of Turbines: 67.0<br>Average Turbine Capacity: 1500.0 MW
+19,Noble Altona,-73.64967252307692,44.820633907692304,65.0,1500.0,Project Name: Noble Altona<br>Number of Turbines: 65.0<br>Average Turbine Capacity: 1500.0 MW
+18,New York State Thruway Authority,-79.39859974999999,42.43075875,4.0,275.0,Project Name: New York State Thruway Authority<br>Number of Turbines: 4.0<br>Average Turbine Capacity: 275.0 MW
+17,Munnsville,-75.55895891304348,42.92641278260869,23.0,1500.0,Project Name: Munnsville<br>Number of Turbines: 23.0<br>Average Turbine Capacity: 1500.0 MW
+16,Marsh Hill,-77.5045769,42.1773228,10.0,1620.0,Project Name: Marsh Hill<br>Number of Turbines: 10.0<br>Average Turbine Capacity: 1620.0 MW
+15,Marble River,-73.93881595714286,44.92812828571429,70.0,3075.0,Project Name: Marble River<br>Number of Turbines: 70.0<br>Average Turbine Capacity: 3075.0 MW
+14,Maple Ridge (Lowville),-75.62250359756098,43.80786052439024,83.0,1650.0,Project Name: Maple Ridge (Lowville)<br>Number of Turbines: 83.0<br>Average Turbine Capacity: 1650.0 MW
+13,Maple Ridge,-75.5533175,43.747381437499996,112.0,1650.0,Project Name: Maple Ridge<br>Number of Turbines: 112.0<br>Average Turbine Capacity: 1650.0 MW
+12,Madison Windpower,-75.45203957142857,42.89491942857143,7.0,1650.0,Project Name: Madison Windpower<br>Number of Turbines: 7.0<br>Average Turbine Capacity: 1650.0 MW
+11,Jericho Rise,-74.09657116216216,44.883082513513514,37.0,2100.0,Project Name: Jericho Rise<br>Number of Turbines: 37.0<br>Average Turbine Capacity: 2100.0 MW
+10,Howard,-77.53695607407407,42.312716074074075,25.074074074074073,2050.0,Project Name: Howard<br>Number of Turbines: 25.074074074074073<br>Average Turbine Capacity: 2050.0 MW
+9,High Sheldon,-78.39379154666666,42.7440134,75.0,1500.0,Project Name: High Sheldon<br>Number of Turbines: 75.0<br>Average Turbine Capacity: 1500.0 MW
+8,Hardscrabble,-74.89501694594595,43.14359886486486,37.0,2000.0,Project Name: Hardscrabble<br>Number of Turbines: 37.0<br>Average Turbine Capacity: 2000.0 MW
+7,Harbec Plastics,-77.360939,43.226522,1.5,550.0,Project Name: Harbec Plastics<br>Number of Turbines: 1.5<br>Average Turbine Capacity: 550.0 MW
+6,Half Hollow Nursery,-72.570854,40.969059,1.0,100.0,Project Name: Half Hollow Nursery<br>Number of Turbines: 1.0<br>Average Turbine Capacity: 100.0 MW
+5,Fenner Wind Power Project - Repower,-75.767838,42.975552,1.0,1500.0,Project Name: Fenner Wind Power Project - Repower<br>Number of Turbines: 1.0<br>Average Turbine Capacity: 1500.0 MW
+4,Fenner Wind Power Project,-75.760677,42.98913605263158,20.0,1500.0,Project Name: Fenner Wind Power Project<br>Number of Turbines: 20.0<br>Average Turbine Capacity: 1500.0 MW
+3,Dutch Hill/Cohocton,-77.45470686,42.53305176,37.58,2500.0,Project Name: Dutch Hill/Cohocton<br>Number of Turbines: 37.58<br>Average Turbine Capacity: 2500.0 MW
+2,Copenhagen,-75.6393374,43.890877725,40.0,2000.0,Project Name: Copenhagen<br>Number of Turbines: 40.0<br>Average Turbine Capacity: 2000.0 MW
+1,Cassadaga,-79.17470378378378,42.31548516216216,37.0,3391.2162162162163,Project Name: Cassadaga<br>Number of Turbines: 37.0<br>Average Turbine Capacity: 3391.2162162162163 MW
+0,Arkwright Summit,-79.23183255555556,42.40774783333333,36.0,2177.777777777778,Project Name: Arkwright Summit<br>Number of Turbines: 36.0<br>Average Turbine Capacity: 2177.777777777778 MW
