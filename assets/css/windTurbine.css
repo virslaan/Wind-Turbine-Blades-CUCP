@@ -1915,7 +1915,7 @@ pre code {
 .table-success td,
 .table-success thead th,
 .table-success tbody + tbody {
-  border-color: #8fd19e;
+  border-color: #8fd19e; 
 }
 
 .table-hover .table-success:hover {
