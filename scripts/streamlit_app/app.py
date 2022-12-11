@@ -13,16 +13,20 @@ st.set_page_config()
 
 st.title('Staying Ahead of Renewable Energy Curve and Analysis on Reusable Blades')
 st.markdown("""
-Our project is a proactive approach to finding more sustainable end-of-life alternatives compared to landfill and incineration.
-NYC Town+Gown has identified several locations that want to reuse wind turbine blades to improve their own facilities. 
+By 2030, New York state targets to generate more than 70% of its electricity from renewable energy sources, 
+thus increasing siting wind farms across the state. Even though most parts of wind turbines are easy to recycle, 
+blades are among the most difficult components to reintegrate into material circularity because of their composite structures. 
+This project is a proactive approach to finding more sustainable end-of-life alternatives for blades compared to 
+landfill and incineration. More specifically, we aim to develop a plan to support future reuse of decommissioned wind turbine blades 
+in New York and design a geographical model to minimize additional GHG emissions from transportation. 
+To help stakeholders make informed decisions on where to send decommissioned blades, we establish GHG boundaries around wind farms, 
+identify reuse locations within the boundaries, and build a model to estimate GHG emissions from transporting the blades.
 
-We will indirectly drive impact for the following by allocating retired turbine blades:
+NYC Town+Gown has identified several locations that want to reuse wind turbine blades to improve their own facilities. We will indirectly drive impact for the following by allocating retired turbine blades:
 1. Public Parks
 2. Modern Art Enthusiasts
 3. Port Authorities
 4. Fiberglass Manufacturers
-
-Our primary goal is to find the optimal reuse location for decommissioned windmill blades. 
 """)
 
 # load the data function
@@ -107,6 +111,89 @@ group1.add_to(map)
 folium.TileLayer('openstreetmap').add_to(map)
 folium.map.LayerControl('topleft', collapsed=False).add_to(map)
 
+# call to render Folium map in Streamlit
+st_data = st_folium(map, width = 725)
+
+
+####
+st.markdown("------------------------------------")
+st.header("Turbine Re-use Analysis within GHG Boundaries")
+st.markdown(
+    """
+    The map provides a GHG radius around each wind farm to identify a boundary within which the blades 
+    will be transported to. Since turbine blades are very difficult to recycle, most of the decommissioned blades 
+    will be cut into segments and sent to landfills. Given the massive sizes and weights of the blades, 
+    a large portion of the GHG emissions will be produced by transporting them. As a result, landfills are used to identify the boundaries.
+    """	
+)
+st.subheader("What are examples of turbine blade repurposing?")
+st.markdown(
+    """
+    For each wind farm, we want to design a reuse plan for the turbine blades so that local and state government agencies 
+    can use them as resources to build public facilities. 
+    \n**NYS Parks**
+    \nFor public facilities, such as benches, bridges, and art statues.
+    \n**NYS Thruway Authority for sound barriers**
+    \nCapital Program: for the safety of the traveling public it is necessary to rehabilitate, 
+    replace or improve certain components of the Thruway’s aging infrastructure.
+    \n**Other potential uses**
+    \n* City and town government re-uses with a focus on parks
+    \n* County government re-uses with a focus on parks
+    \n* New York State highways/roads for sound barriers
+    """
+)
+st.subheader("How to use GHG Boundaries?")
+st.markdown(
+    """
+    1. **Select a windmill project**: the GHG boundaries of each wind farm displayed on the map
+    2. **Select a purpose**: filter the use of blades using the checkbox on the upper-left corner of the map 
+    """
+)
+
+# add the selectbox for selecting the project
+column2 = df3['p_name'].unique().tolist()
+option2 = st.selectbox(
+    'Select a windmill project',
+    column2)
+df_selected2 = df3.loc[df3.p_name == option2]
+# get longitude and latitude of windmill chose
+location = float(df_selected2.latitude),float(df_selected2.longitude)
+
+# create GHG circle map
+map = folium.Map(location, zoom_start=9, control_scale=True)
+
+# plot the GHG radius circle chose
+group0 = folium.FeatureGroup(name='<span style=\\"color: crimson;\\">Wind Farm GHG Circles</span>')
+folium.Circle(
+    location = location, 
+    radius = float(df_selected2['ghg_radius_m']),
+    color='crimson',
+    fill=True,
+    fill_color='crimson'
+    ).add_to(group0)
+group0.add_to(map)
+
+# mark all New York State Parks
+group1 = folium.FeatureGroup(name='<span style=\\"color: green;\\">New York State Parks</span>')
+for index, location_info in df4.iterrows():
+    folium.Marker(
+        location = [location_info["Latitude"], location_info["Longitude"]], 
+        icon=folium.Icon(color='green', icon = 'tree conifer', prefix='fa'),
+        popup = folium.Popup(location_info["Name"])
+        ).add_to(group1)
+group1.add_to(map)
+
+# mark all NYS Thruway Authority Capital Project
+group2 = folium.FeatureGroup(name='<span style=\\"color: blue;\\">NYS Thruway Authority Capital Project</span>')
+for index, location_info in df5.iterrows():
+    folium.Marker(
+        location = [location_info["Latitude"], location_info["Longitude"]], 
+        icon=folium.Icon(color='blue', icon = 'road', prefix='fa'),
+        popup = folium.Popup(location_info["text"])
+        ).add_to(group2)
+group2.add_to(map)
+
+folium.map.LayerControl('topleft', collapsed=False).add_to(map)
 # call to render Folium map in Streamlit
 st_data = st_folium(map, width = 725)
 
@@ -244,80 +331,6 @@ else:
 
 # call to render Folium map in Streamlit    
 st_data = st_folium(map, width = 725)
-
-
-####
-st.markdown("------------------------------------")
-st.header("Turbine Re-use Analysis within GHG Circles")
-st.subheader("What are examples of turbine blade repurposing?")
-st.markdown(
-    """
-    **NYS Parks**
-    \n**NYS Thruway Authority for sound barriers**
-    \nCapital Program: for the safety of the traveling public it is necessary to rehabilitate, 
-    replace or improve certain components of the Thruway’s aging infrastructure.
-    \n**Other potential uses**:
-    \n* City and town government re-uses with a focus on parks
-    \n* County government re-uses with a focus on parks
-    \n* New York State highways/roads for sound barriers
-    """
-)
-st.subheader("How to use GHG Circles?")
-st.markdown(
-    """
-    1. **Select a windmill project**: the GHG circle of the project displayed on the map
-    2. **Select a purpose**: filter the use of blades using the checkbox on the upper-left corner of the map 
-    """
-)
-
-# add the selectbox for selecting the project
-column2 = df3['p_name'].unique().tolist()
-option2 = st.selectbox(
-    'Select a windmill project',
-    column2)
-df_selected2 = df3.loc[df3.p_name == option2]
-# get longitude and latitude of windmill chose
-location = float(df_selected2.latitude),float(df_selected2.longitude)
-
-# create GHG circle map
-map = folium.Map(location, zoom_start=7, control_scale=True)
-
-# plot the GHG radius circle chose
-group0 = folium.FeatureGroup(name='<span style=\\"color: crimson;\\">Wind Farm GHG Circles</span>')
-folium.Circle(
-    location = location, 
-    radius = float(df_selected2['ghg_radius_m']),
-    color='crimson',
-    fill=True,
-    fill_color='crimson',
-    popup = folium.Popup(df_selected2["p_name"], min_width=250, max_width=250)
-    ).add_to(group0)
-group0.add_to(map)
-
-# mark all New York State Parks
-group1 = folium.FeatureGroup(name='<span style=\\"color: green;\\">New York State Parks</span>')
-for index, location_info in df4.iterrows():
-    folium.Marker(
-        location = [location_info["Latitude"], location_info["Longitude"]], 
-        icon=folium.Icon(color='green', icon = 'tree conifer', prefix='fa'),
-        popup = folium.Popup(location_info["Name"])
-        ).add_to(group1)
-group1.add_to(map)
-
-# mark all NYS Thruway Authority Capital Project
-group2 = folium.FeatureGroup(name='<span style=\\"color: blue;\\">NYS Thruway Authority Capital Project</span>')
-for index, location_info in df5.iterrows():
-    folium.Marker(
-        location = [location_info["Latitude"], location_info["Longitude"]], 
-        icon=folium.Icon(color='blue', icon = 'road', prefix='fa'),
-        popup = folium.Popup(location_info["text"])
-        ).add_to(group2)
-group2.add_to(map)
-
-folium.map.LayerControl('topleft', collapsed=False).add_to(map)
-# call to render Folium map in Streamlit
-st_data = st_folium(map, width = 725)
-
 
 
 
